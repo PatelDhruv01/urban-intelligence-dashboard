@@ -1,0 +1,12 @@
+{
+  "city": "Pune",
+  "bbox": "18.40,73.75,18.65,73.98",
+  "categories": {
+    "hospitals": 1064,
+    "schools": 375,
+    "traffic_nodes": 1060,
+    "buildings": 230699,
+    "pharmacies": 200
+  },
+  "total_records": 233398
+}

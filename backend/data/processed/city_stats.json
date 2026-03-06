@@ -1,0 +1,30 @@
+{
+  "city": "Pune",
+  "bbox": {
+    "south": 18.4,
+    "west": 73.75,
+    "north": 18.65,
+    "east": 73.98
+  },
+  "grid_size": "25x25",
+  "total_grid_cells": 625,
+  "infrastructure_counts": {
+    "hospitals": 1064,
+    "schools": 375,
+    "traffic_nodes": 1060,
+    "buildings": 230583,
+    "pharmacies": 200
+  },
+  "coverage_thresholds_km": {
+    "hospital": 3.0,
+    "school": 2.0,
+    "pharmacy": 1.5
+  },
+  "underserved_cells": {
+    "no_hospital_within_3km": 33,
+    "no_school_within_2km": 97,
+    "no_pharmacy_within_1_5km": 296,
+    "any_underserved": 301,
+    "pct_underserved": 48.2
+  }
+}

@@ -1,0 +1,4712 @@
+[
+  {
+    "id": 761948537,
+    "type": "node",
+    "category": "schools",
+    "name": "Symbiosis Nursery School",
+    "lat": 18.533081,
+    "lon": 73.837743,
+    "tags": {
+      "amenity": "school",
+      "name": "Symbiosis Nursery School"
+    }
+  },
+  {
+    "id": 772572006,
+    "type": "node",
+    "category": "schools",
+    "name": "BJ Medical College",
+    "lat": 18.526834,
+    "lon": 73.871916,
+    "tags": {
+      "amenity": "college",
+      "name": "BJ Medical College"
+    }
+  },
+  {
+    "id": 1011184893,
+    "type": "node",
+    "category": "schools",
+    "name": "Lokseva CBSE School",
+    "lat": 18.546363,
+    "lon": 73.783802,
+    "tags": {
+      "amenity": "school",
+      "name": "Lokseva CBSE School"
+    }
+  },
+  {
+    "id": 1109210916,
+    "type": "node",
+    "category": "schools",
+    "name": "New India School",
+    "lat": 18.511426,
+    "lon": 73.794942,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Lane 4",
+      "amenity": "school",
+      "name": "New India School",
+      "phone": "+91 20 252 802 90;+91 20 252 802 91",
+      "website": "https://newindiaschool.org"
+    }
+  },
+  {
+    "id": 1214698509,
+    "type": "node",
+    "category": "schools",
+    "name": "Hutchings High School",
+    "lat": 18.500656,
+    "lon": 73.881898,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Phayre Road",
+      "amenity": "school",
+      "name": "Hutchings High School"
+    }
+  },
+  {
+    "id": 1223063934,
+    "type": "node",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya",
+    "lat": 18.486949,
+    "lon": 73.881605,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Prince Of Wales Drive",
+      "amenity": "school",
+      "name": "Kendriya Vidyalaya"
+    }
+  },
+  {
+    "id": 1229054871,
+    "type": "node",
+    "category": "schools",
+    "name": "Wisdom World School",
+    "lat": 18.598204,
+    "lon": 73.780449,
+    "tags": {
+      "amenity": "school",
+      "name": "Wisdom World School"
+    }
+  },
+  {
+    "id": 1232185660,
+    "type": "node",
+    "category": "schools",
+    "name": "Saint Mary's High School",
+    "lat": 18.509263,
+    "lon": 73.883995,
+    "tags": {
+      "amenity": "school",
+      "name": "Saint Mary's High School"
+    }
+  },
+  {
+    "id": 1716496732,
+    "type": "node",
+    "category": "schools",
+    "name": "Podar International School",
+    "lat": 18.624736,
+    "lon": 73.786542,
+    "tags": {
+      "amenity": "school",
+      "name": "Podar International School"
+    }
+  },
+  {
+    "id": 1884439681,
+    "type": "node",
+    "category": "schools",
+    "name": "College of Agriculture",
+    "lat": 18.53198,
+    "lon": 73.844666,
+    "tags": {
+      "addr:street": "Shivaji Nagar",
+      "amenity": "school",
+      "name": "College of Agriculture"
+    }
+  },
+  {
+    "id": 1998624604,
+    "type": "node",
+    "category": "schools",
+    "name": "The Bishop's Co-Education School",
+    "lat": 18.458157,
+    "lon": 73.915029,
+    "tags": {
+      "addr:street": "Undri-Mohammadwadi Road",
+      "amenity": "school",
+      "name": "The Bishop's Co-Education School",
+      "phone": "02026970722",
+      "website": "http://thebishopsschool.org"
+    }
+  },
+  {
+    "id": 2006307223,
+    "type": "node",
+    "category": "schools",
+    "name": "RIMS International School and Junior College",
+    "lat": 18.477271,
+    "lon": 73.902199,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "NIBM Road",
+      "amenity": "school",
+      "name": "RIMS International School and Junior College"
+    }
+  },
+  {
+    "id": 2027727165,
+    "type": "node",
+    "category": "schools",
+    "name": "Forever Music Pvt. Ltd / Forever Arts Academy",
+    "lat": 18.48977,
+    "lon": 73.843344,
+    "tags": {
+      "addr:street": "Dhomkar Path",
+      "amenity": "school",
+      "name": "Forever Music Pvt. Ltd / Forever Arts Academy"
+    }
+  },
+  {
+    "id": 2308947788,
+    "type": "node",
+    "category": "schools",
+    "name": "Bharati Vidhyapeeth College Of Engineering",
+    "lat": 18.456614,
+    "lon": 73.856302,
+    "tags": {
+      "amenity": "college",
+      "name": "Bharati Vidhyapeeth College Of Engineering"
+    }
+  },
+  {
+    "id": 3376012873,
+    "type": "node",
+    "category": "schools",
+    "name": "Symbiosis Open School",
+    "lat": 18.515854,
+    "lon": 73.830887,
+    "tags": {
+      "amenity": "school",
+      "name": "Symbiosis Open School"
+    }
+  },
+  {
+    "id": 3523422825,
+    "type": "node",
+    "category": "schools",
+    "name": "Bharti Vidyapeeth English Medium School",
+    "lat": 18.57326,
+    "lon": 73.775235,
+    "tags": {
+      "amenity": "school",
+      "name": "Bharti Vidyapeeth English Medium School"
+    }
+  },
+  {
+    "id": 3600490397,
+    "type": "node",
+    "category": "schools",
+    "name": "Red Rose Nursery",
+    "lat": 18.446831,
+    "lon": 73.826444,
+    "tags": {
+      "amenity": "school",
+      "name": "Red Rose Nursery"
+    }
+  },
+  {
+    "id": 3730738218,
+    "type": "node",
+    "category": "schools",
+    "name": "Asian College",
+    "lat": 18.44648,
+    "lon": 73.820733,
+    "tags": {
+      "amenity": "college",
+      "name": "Asian College"
+    }
+  },
+  {
+    "id": 3991591624,
+    "type": "node",
+    "category": "schools",
+    "name": "V.M. Gany Sports Complex & Pavilion",
+    "lat": 18.504507,
+    "lon": 73.876337,
+    "tags": {
+      "amenity": "college",
+      "name": "V.M. Gany Sports Complex & Pavilion",
+      "operator": "M.C.E Society"
+    }
+  },
+  {
+    "id": 3991591625,
+    "type": "node",
+    "category": "schools",
+    "name": "Anglo Urdu Boys High School",
+    "lat": 18.505036,
+    "lon": 73.874985,
+    "tags": {
+      "amenity": "school",
+      "name": "Anglo Urdu Boys High School"
+    }
+  },
+  {
+    "id": 4035849234,
+    "type": "node",
+    "category": "schools",
+    "name": "Pune Institute of Computer Technology",
+    "lat": 18.457564,
+    "lon": 73.850735,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Bharti Vidyapeeth Back Market",
+      "amenity": "college",
+      "name": "Pune Institute of Computer Technology"
+    }
+  },
+  {
+    "id": 4165722691,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.570872,
+    "lon": 73.835669,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 4342143762,
+    "type": "node",
+    "category": "schools",
+    "name": "Homoeopathic Medical College",
+    "lat": 18.459752,
+    "lon": 73.854721,
+    "tags": {
+      "amenity": "college",
+      "name": "Homoeopathic Medical College"
+    }
+  },
+  {
+    "id": 4452524320,
+    "type": "node",
+    "category": "schools",
+    "name": "Abhinava Vidyalaya",
+    "lat": 18.503698,
+    "lon": 73.825528,
+    "tags": {
+      "amenity": "school",
+      "name": "Abhinava Vidyalaya"
+    }
+  },
+  {
+    "id": 4452529697,
+    "type": "node",
+    "category": "schools",
+    "name": "Government Aided School",
+    "lat": 18.503586,
+    "lon": 73.824129,
+    "tags": {
+      "amenity": "school",
+      "name": "Government Aided School"
+    }
+  },
+  {
+    "id": 4520210890,
+    "type": "node",
+    "category": "schools",
+    "name": "Class CCNA",
+    "lat": 18.51022,
+    "lon": 73.834955,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 4524259589,
+    "type": "node",
+    "category": "schools",
+    "name": "Lalit Kala Kendra",
+    "lat": 18.552537,
+    "lon": 73.825855,
+    "tags": {
+      "amenity": "school",
+      "name": "Lalit Kala Kendra"
+    }
+  },
+  {
+    "id": 4546778694,
+    "type": "node",
+    "category": "schools",
+    "name": "Range hills secondary school",
+    "lat": 18.551966,
+    "lon": 73.843156,
+    "tags": {
+      "amenity": "school",
+      "operator": "government"
+    }
+  },
+  {
+    "id": 4611287873,
+    "type": "node",
+    "category": "schools",
+    "name": "Tree House",
+    "lat": 18.482585,
+    "lon": 73.815188,
+    "tags": {
+      "amenity": "school",
+      "name": "Tree House"
+    }
+  },
+  {
+    "id": 4614226665,
+    "type": "node",
+    "category": "schools",
+    "name": "Defence Institute of Advanced Technology DIAT",
+    "lat": 18.424238,
+    "lon": 73.758703,
+    "tags": {
+      "amenity": "university",
+      "name": "Defence Institute of Advanced Technology DIAT",
+      "website": "https://www.diat.ac.in/"
+    }
+  },
+  {
+    "id": 4621664291,
+    "type": "node",
+    "category": "schools",
+    "name": "MLIT",
+    "lat": 18.422012,
+    "lon": 73.759836,
+    "tags": {
+      "amenity": "college",
+      "name": "MLIT"
+    }
+  },
+  {
+    "id": 4634643989,
+    "type": "node",
+    "category": "schools",
+    "name": "KV DIAT",
+    "lat": 18.42782,
+    "lon": 73.767947,
+    "tags": {
+      "amenity": "school",
+      "name": "KV DIAT"
+    }
+  },
+  {
+    "id": 4674947989,
+    "type": "node",
+    "category": "schools",
+    "name": "Tiny Tots play school",
+    "lat": 18.42431,
+    "lon": 73.765237,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 4735665047,
+    "type": "node",
+    "category": "schools",
+    "name": "Bharati Vidyapeeth Medical College",
+    "lat": 18.457236,
+    "lon": 73.856261,
+    "tags": {
+      "amenity": "college",
+      "name": "Bharati Vidyapeeth Medical College"
+    }
+  },
+  {
+    "id": 4735665048,
+    "type": "node",
+    "category": "schools",
+    "name": "Bharati Vidyapeeth Dental College",
+    "lat": 18.457287,
+    "lon": 73.855285,
+    "tags": {
+      "amenity": "college",
+      "name": "Bharati Vidyapeeth Dental College"
+    }
+  },
+  {
+    "id": 5005629800,
+    "type": "node",
+    "category": "schools",
+    "name": "National School",
+    "lat": 18.57021,
+    "lon": 73.826498,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Sangam Nagar",
+      "amenity": "school",
+      "name": "National School"
+    }
+  },
+  {
+    "id": 5257379221,
+    "type": "node",
+    "category": "schools",
+    "name": "RIMYI Iyengar Yoga Institute",
+    "lat": 18.533707,
+    "lon": 73.838668,
+    "tags": {
+      "addr:street": "Harikrushna Mandir Path",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 5302829321,
+    "type": "node",
+    "category": "schools",
+    "name": "Trinity (group) College of Engineering",
+    "lat": 18.422481,
+    "lon": 73.906858,
+    "tags": {
+      "amenity": "college"
+    }
+  },
+  {
+    "id": 5556051146,
+    "type": "node",
+    "category": "schools",
+    "name": "Shriyog",
+    "lat": 18.485238,
+    "lon": 73.896111,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 5730289522,
+    "type": "node",
+    "category": "schools",
+    "name": "RMD Sinhgad College",
+    "lat": 18.488754,
+    "lon": 73.792502,
+    "tags": {
+      "addr:street": "Bypass",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 6113753544,
+    "type": "node",
+    "category": "schools",
+    "name": "Shri Mhatoba Tukaram Balwadkar Vidyalay",
+    "lat": 18.572696,
+    "lon": 73.7744,
+    "tags": {
+      "amenity": "school",
+      "name": "Shri Mhatoba Tukaram Balwadkar Vidyalay"
+    }
+  },
+  {
+    "id": 6457239788,
+    "type": "node",
+    "category": "schools",
+    "name": "Grammangal",
+    "lat": 18.495305,
+    "lon": 73.804086,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 6457253485,
+    "type": "node",
+    "category": "schools",
+    "name": "Jidnyasa",
+    "lat": 18.518717,
+    "lon": 73.806306,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 6464924685,
+    "type": "node",
+    "category": "schools",
+    "name": "GK Gurukul",
+    "lat": 18.595799,
+    "lon": 73.801892,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 6466034886,
+    "type": "node",
+    "category": "schools",
+    "name": "Swadhaa Waldrof Learning Centre",
+    "lat": 18.541358,
+    "lon": 73.793131,
+    "tags": {
+      "amenity": "school",
+      "phone": "02025871992"
+    }
+  },
+  {
+    "id": 6904343509,
+    "type": "node",
+    "category": "schools",
+    "name": "Pearl Drops English Medium School",
+    "lat": 18.570937,
+    "lon": 73.794732,
+    "tags": {
+      "addr:street": "Pimple Nilakh",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 7930289885,
+    "type": "node",
+    "category": "schools",
+    "name": "Orchids The International School, Ambegaon",
+    "lat": 18.458288,
+    "lon": 73.82951,
+    "tags": {
+      "addr:street": "Behind Indian Oil Petrol Pump, Ambegaon Bk ,Dehu-Katraj,Bypass Tal.Haveli",
+      "amenity": "school",
+      "opening_hours": "Mo-Su 09:00-18:30",
+      "operator": "Orchids International School",
+      "phone": "9513923100",
+      "website": "https://www.orchidsinternationalschool.com/pune-branches/ambegaon/"
+    }
+  },
+  {
+    "id": 7930366385,
+    "type": "node",
+    "category": "schools",
+    "name": "Orchids The International School, Undri",
+    "lat": 18.452455,
+    "lon": 73.911779,
+    "tags": {
+      "addr:street": "Apex Hills, Katraj-Hadapsar Bypass Rd, near Bishop’s School, Atur Nagar, Undri",
+      "amenity": "school",
+      "opening_hours": "Mo-Su 09:00-18:30",
+      "operator": "Orchids International School",
+      "phone": "9513731352",
+      "website": "https://www.orchidsinternationalschool.com/pune-branches/undri/"
+    }
+  },
+  {
+    "id": 7930693985,
+    "type": "node",
+    "category": "schools",
+    "name": "Orchids The International School Tathawade",
+    "lat": 18.62441,
+    "lon": 73.758374,
+    "tags": {
+      "addr:street": "Survey No. 9/1, Aundh-Ravet BRTS Rd, Ram Nagar, beside HP Petrol Pump, Tathawade",
+      "amenity": "school",
+      "opening_hours": "Mo-Su 09:00-18:30",
+      "operator": "Orchids International School",
+      "phone": "9513731352",
+      "website": "https://www.orchidsinternationalschool.com/pune-branches/tathawade/"
+    }
+  },
+  {
+    "id": 8904195379,
+    "type": "node",
+    "category": "schools",
+    "name": "Laxmibai Nandagude School",
+    "lat": 18.584113,
+    "lon": 73.781852,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "Laxmibai Nandagude School"
+    }
+  },
+  {
+    "id": 9480088186,
+    "type": "node",
+    "category": "schools",
+    "name": "Suryadatta college of Management",
+    "lat": 18.52029,
+    "lon": 73.77313,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "DSK Ranwara road",
+      "amenity": "university",
+      "name": "Suryadatta college of Management"
+    }
+  },
+  {
+    "id": 9480158150,
+    "type": "node",
+    "category": "schools",
+    "name": "The Suryadatta Education Foundation",
+    "lat": 18.519645,
+    "lon": 73.773235,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "DSK Ranwara road",
+      "amenity": "university",
+      "name": "The Suryadatta Education Foundation"
+    }
+  },
+  {
+    "id": 9801305163,
+    "type": "node",
+    "category": "schools",
+    "name": "Venutai Yashwant Rao Chavan Primary School",
+    "lat": 18.539999,
+    "lon": 73.783761,
+    "tags": {
+      "amenity": "school",
+      "name": "Venutai Yashwant Rao Chavan Primary School"
+    }
+  },
+  {
+    "id": 9801977497,
+    "type": "node",
+    "category": "schools",
+    "name": "Asian School of Cyber Laws",
+    "lat": 18.552548,
+    "lon": 73.771034,
+    "tags": {
+      "amenity": "college",
+      "name": "Asian School of Cyber Laws"
+    }
+  },
+  {
+    "id": 9965869775,
+    "type": "node",
+    "category": "schools",
+    "name": "St. Edmund Campion Preschool",
+    "lat": 18.535998,
+    "lon": 73.819293,
+    "tags": {
+      "amenity": "school",
+      "name": "St. Edmund Campion Preschool",
+      "operator": "Jesuits"
+    }
+  },
+  {
+    "id": 10150949587,
+    "type": "node",
+    "category": "schools",
+    "name": "Singhgad Spring Dale School",
+    "lat": 18.488334,
+    "lon": 73.791607,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Warje Road",
+      "amenity": "school",
+      "name": "Singhgad Spring Dale School",
+      "operator": "Singhgad Institute"
+    }
+  },
+  {
+    "id": 10168330275,
+    "type": "node",
+    "category": "schools",
+    "name": "Centre for Developemtn Studies and Activities",
+    "lat": 18.507507,
+    "lon": 73.770818,
+    "tags": {
+      "amenity": "university",
+      "name": "Centre for Developemtn Studies and Activities"
+    }
+  },
+  {
+    "id": 10172584882,
+    "type": "node",
+    "category": "schools",
+    "name": "Agrasen High School",
+    "lat": 18.555782,
+    "lon": 73.881583,
+    "tags": {
+      "amenity": "school",
+      "name": "Agrasen High School"
+    }
+  },
+  {
+    "id": 10172966009,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.541993,
+    "lon": 73.830465,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 10172966010,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.537794,
+    "lon": 73.833546,
+    "tags": {
+      "amenity": "university"
+    }
+  },
+  {
+    "id": 10172993843,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Politics and Public Administration",
+    "lat": 18.551715,
+    "lon": 73.825808,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Politics and Public Administration"
+    }
+  },
+  {
+    "id": 10172993857,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Law",
+    "lat": 18.546975,
+    "lon": 73.828941,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Law"
+    }
+  },
+  {
+    "id": 10172993858,
+    "type": "node",
+    "category": "schools",
+    "name": "University Press",
+    "lat": 18.547734,
+    "lon": 73.828358,
+    "tags": {
+      "amenity": "university",
+      "name": "University Press"
+    }
+  },
+  {
+    "id": 10173007826,
+    "type": "node",
+    "category": "schools",
+    "name": "SYMBOSIS INTERNATIONAL SCHOOL",
+    "lat": 18.565958,
+    "lon": 73.907552,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "college",
+      "name": "SYMBOSIS INTERNATIONAL SCHOOL"
+    }
+  },
+  {
+    "id": 10173007828,
+    "type": "node",
+    "category": "schools",
+    "name": "NOWROSJEE WADIA COLLEGE",
+    "lat": 18.532767,
+    "lon": 73.879795,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "college",
+      "name": "NOWROSJEE WADIA COLLEGE"
+    }
+  },
+  {
+    "id": 10173007831,
+    "type": "node",
+    "category": "schools",
+    "name": "Poona College of Pharmacy",
+    "lat": 18.512985,
+    "lon": 73.820485,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "college",
+      "name": "Poona College of Pharmacy"
+    }
+  },
+  {
+    "id": 10173007832,
+    "type": "node",
+    "category": "schools",
+    "name": "Symbiosis Law School",
+    "lat": 18.575501,
+    "lon": 73.907999,
+    "tags": {
+      "amenity": "college",
+      "name": "Symbiosis Law School"
+    }
+  },
+  {
+    "id": 10235306345,
+    "type": "node",
+    "category": "schools",
+    "name": "Thergaav High School",
+    "lat": 18.614654,
+    "lon": 73.779156,
+    "tags": {
+      "amenity": "school",
+      "name": "Thergaav High School"
+    }
+  },
+  {
+    "id": 10251013550,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.502377,
+    "lon": 73.77001,
+    "tags": {
+      "amenity": "university"
+    }
+  },
+  {
+    "id": 10266930674,
+    "type": "node",
+    "category": "schools",
+    "name": "Pratapgad",
+    "lat": 18.649102,
+    "lon": 73.828426,
+    "tags": {
+      "amenity": "school",
+      "name": "Pratapgad",
+      "operator": "Society of Saint Pius X"
+    }
+  },
+  {
+    "id": 10303754868,
+    "type": "node",
+    "category": "schools",
+    "name": "Robotics paathshala",
+    "lat": 18.598309,
+    "lon": 73.76392,
+    "tags": {
+      "amenity": "school",
+      "name": "Robotics paathshala",
+      "phone": "+91 96201 82085"
+    }
+  },
+  {
+    "id": 10542730621,
+    "type": "node",
+    "category": "schools",
+    "name": "Tree House School",
+    "lat": 18.46704,
+    "lon": 73.890869,
+    "tags": {
+      "amenity": "school",
+      "name": "Tree House School"
+    }
+  },
+  {
+    "id": 10560813631,
+    "type": "node",
+    "category": "schools",
+    "name": "Mansukhbhai Kothari National School",
+    "lat": 18.462162,
+    "lon": 73.89317,
+    "tags": {
+      "amenity": "school",
+      "name": "Mansukhbhai Kothari National School"
+    }
+  },
+  {
+    "id": 10564072337,
+    "type": "node",
+    "category": "schools",
+    "name": "Olive National School",
+    "lat": 18.468711,
+    "lon": 73.889854,
+    "tags": {
+      "amenity": "school",
+      "name": "Olive National School"
+    }
+  },
+  {
+    "id": 10564938412,
+    "type": "node",
+    "category": "schools",
+    "name": "Nirmala Convent School",
+    "lat": 18.553564,
+    "lon": 73.944958,
+    "tags": {
+      "amenity": "school",
+      "name": "Nirmala Convent School"
+    }
+  },
+  {
+    "id": 10567804468,
+    "type": "node",
+    "category": "schools",
+    "name": "Oakridge School",
+    "lat": 18.464573,
+    "lon": 73.890195,
+    "tags": {
+      "amenity": "school",
+      "name": "Oakridge School"
+    }
+  },
+  {
+    "id": 10573200434,
+    "type": "node",
+    "category": "schools",
+    "name": "indira school pre primary",
+    "lat": 18.609811,
+    "lon": 73.750057,
+    "tags": {
+      "amenity": "school",
+      "name": "indira school pre primary"
+    }
+  },
+  {
+    "id": 10573202801,
+    "type": "node",
+    "category": "schools",
+    "name": "Hems International school",
+    "lat": 18.608008,
+    "lon": 73.759583,
+    "tags": {
+      "amenity": "school",
+      "name": "Hems International school"
+    }
+  },
+  {
+    "id": 10574624797,
+    "type": "node",
+    "category": "schools",
+    "name": "SNBP international school wakad",
+    "lat": 18.601902,
+    "lon": 73.754793,
+    "tags": {
+      "amenity": "school",
+      "name": "SNBP international school wakad"
+    }
+  },
+  {
+    "id": 10574633157,
+    "type": "node",
+    "category": "schools",
+    "name": "Annasaheb Patil School",
+    "lat": 18.506433,
+    "lon": 73.80289,
+    "tags": {
+      "amenity": "school",
+      "name": "Annasaheb Patil School"
+    }
+  },
+  {
+    "id": 10574645036,
+    "type": "node",
+    "category": "schools",
+    "name": "Sahyadri Internationsal School",
+    "lat": 18.506595,
+    "lon": 73.803099,
+    "tags": {
+      "amenity": "school",
+      "name": "Sahyadri Internationsal School"
+    }
+  },
+  {
+    "id": 10574649086,
+    "type": "node",
+    "category": "schools",
+    "name": "Vasundhara Secondary School",
+    "lat": 18.50658,
+    "lon": 73.798735,
+    "tags": {
+      "amenity": "school",
+      "name": "Vasundhara Secondary School"
+    }
+  },
+  {
+    "id": 10574649559,
+    "type": "node",
+    "category": "schools",
+    "name": "Snskruti international school Wakad",
+    "lat": 18.604611,
+    "lon": 73.75848,
+    "tags": {
+      "amenity": "school",
+      "name": "Snskruti international school Wakad"
+    }
+  },
+  {
+    "id": 10574652151,
+    "type": "node",
+    "category": "schools",
+    "name": "Mindseed preschool & daycare",
+    "lat": 18.606778,
+    "lon": 73.761451,
+    "tags": {
+      "amenity": "school",
+      "name": "Mindseed preschool & daycare"
+    }
+  },
+  {
+    "id": 10574657133,
+    "type": "node",
+    "category": "schools",
+    "name": "Kiddonia preschool wakad",
+    "lat": 18.604223,
+    "lon": 73.764047,
+    "tags": {
+      "amenity": "school",
+      "name": "Kiddonia preschool wakad"
+    }
+  },
+  {
+    "id": 10574663122,
+    "type": "node",
+    "category": "schools",
+    "name": "Athrava Ved School",
+    "lat": 18.498528,
+    "lon": 73.809438,
+    "tags": {
+      "amenity": "school",
+      "name": "Athrava Ved School"
+    }
+  },
+  {
+    "id": 10574673482,
+    "type": "node",
+    "category": "schools",
+    "name": "EuroKids Pre-School Choudhary Park",
+    "lat": 18.606789,
+    "lon": 73.761746,
+    "tags": {
+      "amenity": "school",
+      "name": "EuroKids Pre-School Choudhary Park"
+    }
+  },
+  {
+    "id": 10574692637,
+    "type": "node",
+    "category": "schools",
+    "name": "Early nest best preschool in wakad",
+    "lat": 18.597348,
+    "lon": 73.763979,
+    "tags": {
+      "amenity": "school",
+      "name": "Early nest best preschool in wakad"
+    }
+  },
+  {
+    "id": 10596055593,
+    "type": "node",
+    "category": "schools",
+    "name": "Noble English School",
+    "lat": 18.505995,
+    "lon": 73.862313,
+    "tags": {
+      "amenity": "school",
+      "name": "Noble English School"
+    }
+  },
+  {
+    "id": 10683612075,
+    "type": "node",
+    "category": "schools",
+    "name": "VidyaNiketan English Medium School",
+    "lat": 18.471317,
+    "lon": 73.866902,
+    "tags": {
+      "addr:city": "Bibwewadi",
+      "addr:street": "Swami Vivekanand Marg",
+      "amenity": "school",
+      "name": "VidyaNiketan English Medium School"
+    }
+  },
+  {
+    "id": 10686667668,
+    "type": "node",
+    "category": "schools",
+    "name": "Late Anantrao Pawar memorial school",
+    "lat": 18.569113,
+    "lon": 73.833515,
+    "tags": {
+      "amenity": "school",
+      "name": "Late Anantrao Pawar memorial school",
+      "operator": "PMC, thermax foundation and Akanksha foundation"
+    }
+  },
+  {
+    "id": 10692744930,
+    "type": "node",
+    "category": "schools",
+    "name": "vaishnavi pre primary",
+    "lat": 18.591529,
+    "lon": 73.92672,
+    "tags": {
+      "amenity": "school",
+      "name": "vaishnavi pre primary"
+    }
+  },
+  {
+    "id": 10692758953,
+    "type": "node",
+    "category": "schools",
+    "name": "Royce international School",
+    "lat": 18.57364,
+    "lon": 73.88439,
+    "tags": {
+      "amenity": "school",
+      "name": "Royce international School"
+    }
+  },
+  {
+    "id": 10692763680,
+    "type": "node",
+    "category": "schools",
+    "name": "Kidzee karve nagar",
+    "lat": 18.487306,
+    "lon": 73.819689,
+    "tags": {
+      "amenity": "school",
+      "name": "Kidzee karve nagar"
+    }
+  },
+  {
+    "id": 10692766417,
+    "type": "node",
+    "category": "schools",
+    "name": "st. ANTHONY SCHOOL",
+    "lat": 18.577769,
+    "lon": 73.895935,
+    "tags": {
+      "amenity": "school",
+      "name": "st. ANTHONY SCHOOL"
+    }
+  },
+  {
+    "id": 10692767075,
+    "type": "node",
+    "category": "schools",
+    "name": "RIMS international school",
+    "lat": 18.581381,
+    "lon": 73.896382,
+    "tags": {
+      "amenity": "school",
+      "name": "RIMS international school"
+    }
+  },
+  {
+    "id": 10692769362,
+    "type": "node",
+    "category": "schools",
+    "name": "air force school viman nagar",
+    "lat": 18.573355,
+    "lon": 73.91677,
+    "tags": {
+      "amenity": "school",
+      "name": "air force school viman nagar"
+    }
+  },
+  {
+    "id": 10692770226,
+    "type": "node",
+    "category": "schools",
+    "name": "masoom play school",
+    "lat": 18.592874,
+    "lon": 73.921942,
+    "tags": {
+      "amenity": "school",
+      "name": "masoom play school"
+    }
+  },
+  {
+    "id": 10692770473,
+    "type": "node",
+    "category": "schools",
+    "name": "Mahatma Gandhi school ,pune",
+    "lat": 18.570982,
+    "lon": 73.902101,
+    "tags": {
+      "amenity": "school",
+      "name": "Mahatma Gandhi school ,pune"
+    }
+  },
+  {
+    "id": 10692770474,
+    "type": "node",
+    "category": "schools",
+    "name": "Symbiosis School for Liberal Arts",
+    "lat": 18.575612,
+    "lon": 73.90799,
+    "tags": {
+      "amenity": "college",
+      "name": "Symbiosis School for Liberal Arts"
+    }
+  },
+  {
+    "id": 10692770475,
+    "type": "node",
+    "category": "schools",
+    "name": "Symbiosis Summer School",
+    "lat": 18.575401,
+    "lon": 73.908789,
+    "tags": {
+      "amenity": "college",
+      "name": "Symbiosis Summer School"
+    }
+  },
+  {
+    "id": 10692782228,
+    "type": "node",
+    "category": "schools",
+    "name": "school",
+    "lat": 18.589994,
+    "lon": 73.926942,
+    "tags": {
+      "amenity": "school",
+      "name": "school"
+    }
+  },
+  {
+    "id": 10692792823,
+    "type": "node",
+    "category": "schools",
+    "name": "dnyanda nutan balvikas",
+    "lat": 18.489754,
+    "lon": 73.82025,
+    "tags": {
+      "amenity": "school",
+      "name": "dnyanda nutan balvikas"
+    }
+  },
+  {
+    "id": 10692810140,
+    "type": "node",
+    "category": "schools",
+    "name": "bharatratna dr.APJ abdul kalam e-learning school",
+    "lat": 18.484859,
+    "lon": 73.821212,
+    "tags": {
+      "amenity": "school",
+      "name": "bharatratna dr.APJ abdul kalam e-learning school"
+    }
+  },
+  {
+    "id": 10692810141,
+    "type": "node",
+    "category": "schools",
+    "name": "blue bird nursey school",
+    "lat": 18.488907,
+    "lon": 73.820763,
+    "tags": {
+      "amenity": "school",
+      "name": "blue bird nursey school"
+    }
+  },
+  {
+    "id": 10692820321,
+    "type": "node",
+    "category": "schools",
+    "name": "tree house play group",
+    "lat": 18.489734,
+    "lon": 73.820359,
+    "tags": {
+      "amenity": "school",
+      "name": "tree house play group"
+    }
+  },
+  {
+    "id": 10699077523,
+    "type": "node",
+    "category": "schools",
+    "name": "Gokhale Institute of Politics & Economics",
+    "lat": 18.520869,
+    "lon": 73.832771,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Gopal Ganesh Agarkar Path",
+      "amenity": "university",
+      "name": "Gokhale Institute of Politics & Economics"
+    }
+  },
+  {
+    "id": 10724748486,
+    "type": "node",
+    "category": "schools",
+    "name": "SHARF",
+    "lat": 18.515719,
+    "lon": 73.834841,
+    "tags": {
+      "amenity": "school",
+      "name": "SHARF"
+    }
+  },
+  {
+    "id": 10724823959,
+    "type": "node",
+    "category": "schools",
+    "name": "Naad insitute",
+    "lat": 18.514241,
+    "lon": 73.834707,
+    "tags": {
+      "amenity": "school",
+      "name": "Naad insitute"
+    }
+  },
+  {
+    "id": 10724823960,
+    "type": "node",
+    "category": "schools",
+    "name": "little miracles",
+    "lat": 18.515552,
+    "lon": 73.833498,
+    "tags": {
+      "amenity": "school",
+      "name": "little miracles"
+    }
+  },
+  {
+    "id": 10724871527,
+    "type": "node",
+    "category": "schools",
+    "name": "leapbridge early childhood",
+    "lat": 18.515374,
+    "lon": 73.835863,
+    "tags": {
+      "amenity": "school",
+      "name": "leapbridge early childhood"
+    }
+  },
+  {
+    "id": 10724871528,
+    "type": "node",
+    "category": "schools",
+    "name": "symbiosis sports center and primary and secondary school",
+    "lat": 18.515614,
+    "lon": 73.831166,
+    "tags": {
+      "amenity": "school",
+      "name": "symbiosis sports center and primary and secondary school"
+    }
+  },
+  {
+    "id": 10724889771,
+    "type": "node",
+    "category": "schools",
+    "name": "vidya mahamandal",
+    "lat": 18.517941,
+    "lon": 73.84245,
+    "tags": {
+      "amenity": "school",
+      "name": "vidya mahamandal"
+    }
+  },
+  {
+    "id": 10724927032,
+    "type": "node",
+    "category": "schools",
+    "name": "kedar bhagwat music academy",
+    "lat": 18.518675,
+    "lon": 73.830409,
+    "tags": {
+      "amenity": "school",
+      "name": "kedar bhagwat music academy"
+    }
+  },
+  {
+    "id": 10724927253,
+    "type": "node",
+    "category": "schools",
+    "name": "Aandra association primary school",
+    "lat": 18.519259,
+    "lon": 73.84536,
+    "tags": {
+      "amenity": "school",
+      "name": "Aandra association primary school"
+    }
+  },
+  {
+    "id": 10724934783,
+    "type": "node",
+    "category": "schools",
+    "name": "maharastra vidya mandal",
+    "lat": 18.517411,
+    "lon": 73.830238,
+    "tags": {
+      "amenity": "school",
+      "name": "maharastra vidya mandal"
+    }
+  },
+  {
+    "id": 10724940584,
+    "type": "node",
+    "category": "schools",
+    "name": "MP international school and junior college",
+    "lat": 18.522125,
+    "lon": 73.833191,
+    "tags": {
+      "amenity": "school",
+      "name": "MP international school and junior college"
+    }
+  },
+  {
+    "id": 10724941696,
+    "type": "node",
+    "category": "schools",
+    "name": "ayan businness school",
+    "lat": 18.518049,
+    "lon": 73.841945,
+    "tags": {
+      "amenity": "school",
+      "name": "ayan businness school"
+    }
+  },
+  {
+    "id": 10724942627,
+    "type": "node",
+    "category": "schools",
+    "name": "indira kids",
+    "lat": 18.559776,
+    "lon": 73.809871,
+    "tags": {
+      "amenity": "school",
+      "name": "indira kids"
+    }
+  },
+  {
+    "id": 10724942844,
+    "type": "node",
+    "category": "schools",
+    "name": "fairyland children's center",
+    "lat": 18.515873,
+    "lon": 73.84157,
+    "tags": {
+      "amenity": "school",
+      "name": "fairyland children's center"
+    }
+  },
+  {
+    "id": 10724949171,
+    "type": "node",
+    "category": "schools",
+    "name": "prasanna autism centre",
+    "lat": 18.518435,
+    "lon": 73.840352,
+    "tags": {
+      "amenity": "school",
+      "name": "prasanna autism centre"
+    }
+  },
+  {
+    "id": 10724949840,
+    "type": "node",
+    "category": "schools",
+    "name": "SSCD{symbiosis schools central dictorate}",
+    "lat": 18.515849,
+    "lon": 73.831099,
+    "tags": {
+      "amenity": "school",
+      "name": "SSCD{symbiosis schools central dictorate}"
+    }
+  },
+  {
+    "id": 10724950765,
+    "type": "node",
+    "category": "schools",
+    "name": "bhisma school of indic studies",
+    "lat": 18.517835,
+    "lon": 73.844963,
+    "tags": {
+      "amenity": "school",
+      "name": "bhisma school of indic studies"
+    }
+  },
+  {
+    "id": 10724950766,
+    "type": "node",
+    "category": "schools",
+    "name": "MES Sou vimlabai garware high school",
+    "lat": 18.513831,
+    "lon": 73.840526,
+    "tags": {
+      "amenity": "school",
+      "name": "MES Sou vimlabai garware high school"
+    }
+  },
+  {
+    "id": 10724952066,
+    "type": "node",
+    "category": "schools",
+    "name": "chandrakant Darode school",
+    "lat": 18.522309,
+    "lon": 73.833197,
+    "tags": {
+      "amenity": "school",
+      "name": "chandrakant Darode school"
+    }
+  },
+  {
+    "id": 10724952253,
+    "type": "node",
+    "category": "schools",
+    "name": "rajal enterprices",
+    "lat": 18.514342,
+    "lon": 73.838765,
+    "tags": {
+      "amenity": "school",
+      "name": "rajal enterprices"
+    }
+  },
+  {
+    "id": 10724952845,
+    "type": "node",
+    "category": "schools",
+    "name": "Khanderao Junawane Government School",
+    "lat": 18.554728,
+    "lon": 73.816391,
+    "tags": {
+      "amenity": "school",
+      "name": "Khanderao Junawane Government School"
+    }
+  },
+  {
+    "id": 10724957170,
+    "type": "node",
+    "category": "schools",
+    "name": "KLAY preschool and Daycare",
+    "lat": 18.555339,
+    "lon": 73.810402,
+    "tags": {
+      "amenity": "school",
+      "name": "KLAY preschool and Daycare"
+    }
+  },
+  {
+    "id": 10724964228,
+    "type": "node",
+    "category": "schools",
+    "name": "swatarang sangeet vidyalaya",
+    "lat": 18.514334,
+    "lon": 73.836991,
+    "tags": {
+      "amenity": "school",
+      "name": "swatarang sangeet vidyalaya"
+    }
+  },
+  {
+    "id": 10724970333,
+    "type": "node",
+    "category": "schools",
+    "name": "school of culture and language",
+    "lat": 18.514676,
+    "lon": 73.834548,
+    "tags": {
+      "amenity": "school",
+      "name": "school of culture and language"
+    }
+  },
+  {
+    "id": 10724970491,
+    "type": "node",
+    "category": "schools",
+    "name": "City international school Aundh",
+    "lat": 18.564429,
+    "lon": 73.812946,
+    "tags": {
+      "amenity": "school",
+      "name": "City international school Aundh"
+    }
+  },
+  {
+    "id": 10724973517,
+    "type": "node",
+    "category": "schools",
+    "name": "E-learning school pmc",
+    "lat": 18.516457,
+    "lon": 73.831309,
+    "tags": {
+      "amenity": "school",
+      "name": "E-learning school pmc"
+    }
+  },
+  {
+    "id": 10724984551,
+    "type": "node",
+    "category": "schools",
+    "name": "kiddis nook",
+    "lat": 18.558975,
+    "lon": 73.803295,
+    "tags": {
+      "amenity": "school",
+      "name": "kiddis nook"
+    }
+  },
+  {
+    "id": 10724985104,
+    "type": "node",
+    "category": "schools",
+    "name": "spark nursery school",
+    "lat": 18.56123,
+    "lon": 73.804472,
+    "tags": {
+      "amenity": "school",
+      "name": "spark nursery school"
+    }
+  },
+  {
+    "id": 10724990195,
+    "type": "node",
+    "category": "schools",
+    "name": "Indira Gandhi school no 87B",
+    "lat": 18.562189,
+    "lon": 73.811024,
+    "tags": {
+      "amenity": "school",
+      "name": "Indira Gandhi school no 87B"
+    }
+  },
+  {
+    "id": 10724992745,
+    "type": "node",
+    "category": "schools",
+    "name": "Mindseed Preschool and Daycare",
+    "lat": 18.560614,
+    "lon": 73.805342,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "school",
+      "name": "Mindseed Preschool and Daycare",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+      "website": "https://www.mindseed.in/"
+    }
+  },
+  {
+    "id": 10724993217,
+    "type": "node",
+    "category": "schools",
+    "name": "T.I.M.E kids aundh",
+    "lat": 18.559801,
+    "lon": 73.801327,
+    "tags": {
+      "amenity": "school",
+      "name": "T.I.M.E kids aundh"
+    }
+  },
+  {
+    "id": 10724999994,
+    "type": "node",
+    "category": "schools",
+    "name": "indus early learning centre aundh",
+    "lat": 18.557657,
+    "lon": 73.80289,
+    "tags": {
+      "amenity": "school",
+      "name": "indus early learning centre aundh"
+    }
+  },
+  {
+    "id": 10725000985,
+    "type": "node",
+    "category": "schools",
+    "name": "Vivero international pre school and childcare",
+    "lat": 18.557869,
+    "lon": 73.804172,
+    "tags": {
+      "amenity": "school",
+      "name": "Vivero international pre school and childcare"
+    }
+  },
+  {
+    "id": 10725002408,
+    "type": "node",
+    "category": "schools",
+    "name": "Kidzee",
+    "lat": 18.560729,
+    "lon": 73.805116,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "Kidzee",
+      "opening_hours": "Mo-Fr 10:00-18:00",
+      "operator": "Zee Learn Ltd.",
+      "website": "https://www.kidzee.com/"
+    }
+  },
+  {
+    "id": 10725021533,
+    "type": "node",
+    "category": "schools",
+    "name": "little millenium preschool aundh",
+    "lat": 18.56148,
+    "lon": 73.801541,
+    "tags": {
+      "amenity": "school",
+      "name": "little millenium preschool aundh"
+    }
+  },
+  {
+    "id": 10765391648,
+    "type": "node",
+    "category": "schools",
+    "name": "Craze English Medium School",
+    "lat": 18.442806,
+    "lon": 73.785901,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Kolhewadi Road",
+      "amenity": "school",
+      "name": "Craze English Medium School"
+    }
+  },
+  {
+    "id": 10807028855,
+    "type": "node",
+    "category": "schools",
+    "name": "Shri Bhairavnath Secondary and Higher Secondary School",
+    "lat": 18.631567,
+    "lon": 73.848218,
+    "tags": {
+      "amenity": "school",
+      "name": "Shri Bhairavnath Secondary and Higher Secondary School"
+    }
+  },
+  {
+    "id": 10807037929,
+    "type": "node",
+    "category": "schools",
+    "name": "Shri Bhairavnath Junior College",
+    "lat": 18.63119,
+    "lon": 73.848026,
+    "tags": {
+      "amenity": "college",
+      "name": "Shri Bhairavnath Junior College"
+    }
+  },
+  {
+    "id": 10807286708,
+    "type": "node",
+    "category": "schools",
+    "name": "SPG International School",
+    "lat": 18.625915,
+    "lon": 73.86285,
+    "tags": {
+      "addr:city": "Pimpri Chinchwad",
+      "addr:street": "Bhosari - Alandi Road",
+      "amenity": "school",
+      "name": "SPG International School"
+    }
+  },
+  {
+    "id": 11375788736,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Computer Science",
+    "lat": 18.552847,
+    "lon": 73.822159,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Computer Science"
+    }
+  },
+  {
+    "id": 11375788747,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Media & Communication Studies",
+    "lat": 18.553991,
+    "lon": 73.822509,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Media & Communication Studies"
+    }
+  },
+  {
+    "id": 11375788749,
+    "type": "node",
+    "category": "schools",
+    "name": "International Students Cells",
+    "lat": 18.555621,
+    "lon": 73.82371,
+    "tags": {
+      "amenity": "university",
+      "name": "International Students Cells"
+    }
+  },
+  {
+    "id": 11375788758,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Chemistry",
+    "lat": 18.552075,
+    "lon": 73.824166,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Chemistry"
+    }
+  },
+  {
+    "id": 11375788759,
+    "type": "node",
+    "category": "schools",
+    "name": "Botany Department",
+    "lat": 18.548777,
+    "lon": 73.824399,
+    "tags": {
+      "amenity": "university",
+      "name": "Botany Department"
+    }
+  },
+  {
+    "id": 11375788760,
+    "type": "node",
+    "category": "schools",
+    "name": "Zoology Department",
+    "lat": 18.549368,
+    "lon": 73.823783,
+    "tags": {
+      "amenity": "university",
+      "name": "Zoology Department"
+    }
+  },
+  {
+    "id": 11375788762,
+    "type": "node",
+    "category": "schools",
+    "name": "C-DAC",
+    "lat": 18.551739,
+    "lon": 73.823801,
+    "tags": {
+      "amenity": "university",
+      "name": "C-DAC"
+    }
+  },
+  {
+    "id": 11375788763,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Physics",
+    "lat": 18.551283,
+    "lon": 73.823679,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Physics"
+    }
+  },
+  {
+    "id": 11375788764,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Commerce",
+    "lat": 18.548072,
+    "lon": 73.82772,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Commerce"
+    }
+  },
+  {
+    "id": 11375788765,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Geology",
+    "lat": 18.548399,
+    "lon": 73.82759,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Geology"
+    }
+  },
+  {
+    "id": 11375788766,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Mathematics",
+    "lat": 18.549029,
+    "lon": 73.827411,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Mathematics"
+    }
+  },
+  {
+    "id": 11375788767,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Scientific computing, modeling and simulations",
+    "lat": 18.548591,
+    "lon": 73.829268,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Scientific computing, modeling and simulations"
+    }
+  },
+  {
+    "id": 11375788768,
+    "type": "node",
+    "category": "schools",
+    "name": "IT cell",
+    "lat": 18.548408,
+    "lon": 73.828972,
+    "tags": {
+      "amenity": "university",
+      "name": "IT cell"
+    }
+  },
+  {
+    "id": 11375798469,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Geography",
+    "lat": 18.548057,
+    "lon": 73.827321,
+    "tags": {
+      "addr:city": "Ganeshkhind, Pune, Maharashtra",
+      "addr:street": "University Road",
+      "amenity": "university",
+      "name": "Department of Geography",
+      "operator": "Pune University",
+      "website": "http://www.unipune.ac.in/"
+    }
+  },
+  {
+    "id": 11375798470,
+    "type": "node",
+    "category": "schools",
+    "name": "English, hindi, marathi Department",
+    "lat": 18.550458,
+    "lon": 73.826932,
+    "tags": {
+      "amenity": "university",
+      "name": "English, hindi, marathi Department"
+    }
+  },
+  {
+    "id": 11375798471,
+    "type": "node",
+    "category": "schools",
+    "name": "Microbiology Department",
+    "lat": 18.546218,
+    "lon": 73.829784,
+    "tags": {
+      "amenity": "university",
+      "name": "Microbiology Department"
+    }
+  },
+  {
+    "id": 11375798472,
+    "type": "node",
+    "category": "schools",
+    "name": "Pune University MBA(PUMBA)",
+    "lat": 18.547166,
+    "lon": 73.829922,
+    "tags": {
+      "amenity": "university",
+      "name": "Pune University MBA(PUMBA)"
+    }
+  },
+  {
+    "id": 11375798473,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Technology",
+    "lat": 18.556917,
+    "lon": 73.827732,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Technology"
+    }
+  },
+  {
+    "id": 11375798474,
+    "type": "node",
+    "category": "schools",
+    "name": "Guest house",
+    "lat": 18.556752,
+    "lon": 73.828336,
+    "tags": {
+      "amenity": "university",
+      "name": "Guest house"
+    }
+  },
+  {
+    "id": 11375798475,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of physical education",
+    "lat": 18.557149,
+    "lon": 73.827356,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of physical education"
+    }
+  },
+  {
+    "id": 11375798476,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of education",
+    "lat": 18.55735,
+    "lon": 73.827411,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of education"
+    }
+  },
+  {
+    "id": 11375798477,
+    "type": "node",
+    "category": "schools",
+    "name": "department of psychology",
+    "lat": 18.556667,
+    "lon": 73.827399,
+    "tags": {
+      "amenity": "university",
+      "name": "department of psychology"
+    }
+  },
+  {
+    "id": 11375798499,
+    "type": "node",
+    "category": "schools",
+    "name": "School of Open Learning, SPPU",
+    "lat": 18.556955,
+    "lon": 73.82631,
+    "tags": {
+      "amenity": "university",
+      "name": "School of Open Learning, SPPU"
+    }
+  },
+  {
+    "id": 11375798502,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Sports",
+    "lat": 18.558525,
+    "lon": 73.82561,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Sports"
+    }
+  },
+  {
+    "id": 11375798503,
+    "type": "node",
+    "category": "schools",
+    "name": "Inter University Centre for Astronomy and Astrophysics",
+    "lat": 18.55944,
+    "lon": 73.82561,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "IUCAA road",
+      "amenity": "university",
+      "name": "Inter University Centre for Astronomy and Astrophysics",
+      "website": "https://www.iucaa.in/"
+    }
+  },
+  {
+    "id": 11375798504,
+    "type": "node",
+    "category": "schools",
+    "name": "Department of Electronic sciences",
+    "lat": 18.551681,
+    "lon": 73.822638,
+    "tags": {
+      "amenity": "university",
+      "name": "Department of Electronic sciences"
+    }
+  },
+  {
+    "id": 11375798505,
+    "type": "node",
+    "category": "schools",
+    "name": "Interdisciplinary School of science",
+    "lat": 18.55682,
+    "lon": 73.826303,
+    "tags": {
+      "amenity": "university",
+      "name": "Interdisciplinary School of science"
+    }
+  },
+  {
+    "id": 11411783987,
+    "type": "node",
+    "category": "schools",
+    "name": "Dr. D Y Patil College Of Pharmacy, Akurdi",
+    "lat": 18.64495,
+    "lon": 73.760164,
+    "tags": {
+      "amenity": "college",
+      "name": "Dr. D Y Patil College Of Pharmacy, Akurdi"
+    }
+  },
+  {
+    "id": 11411783988,
+    "type": "node",
+    "category": "schools",
+    "name": "DY Patil College of Engineering,Akurdi",
+    "lat": 18.645012,
+    "lon": 73.758223,
+    "tags": {
+      "amenity": "college",
+      "name": "DY Patil College of Engineering,Akurdi"
+    }
+  },
+  {
+    "id": 11411784023,
+    "type": "node",
+    "category": "schools",
+    "name": "Dr. D. Y. Patil ACS Junior College",
+    "lat": 18.64457,
+    "lon": 73.758734,
+    "tags": {
+      "amenity": "college",
+      "name": "Dr. D. Y. Patil ACS Junior College"
+    }
+  },
+  {
+    "id": 11411784068,
+    "type": "node",
+    "category": "schools",
+    "name": "D.Y Patil Polytechnic, Akurdi, Pune",
+    "lat": 18.644354,
+    "lon": 73.759286,
+    "tags": {
+      "amenity": "college",
+      "name": "D.Y Patil Polytechnic, Akurdi, Pune"
+    }
+  },
+  {
+    "id": 11411784469,
+    "type": "node",
+    "category": "schools",
+    "name": "D. Y. Patil International University",
+    "lat": 18.645883,
+    "lon": 73.76012,
+    "tags": {
+      "amenity": "college",
+      "name": "D. Y. Patil International University"
+    }
+  },
+  {
+    "id": 11411784470,
+    "type": "node",
+    "category": "schools",
+    "name": "D. Y. PATIL INSTITUTE OF MASTER OF COMPUTER APPLICATIONS",
+    "lat": 18.646746,
+    "lon": 73.76037,
+    "tags": {
+      "amenity": "college",
+      "name": "D. Y. PATIL INSTITUTE OF MASTER OF COMPUTER APPLICATIONS"
+    }
+  },
+  {
+    "id": 11411784471,
+    "type": "node",
+    "category": "schools",
+    "name": "Dr D Y Patil College of Agricultural Business Management",
+    "lat": 18.647704,
+    "lon": 73.76045,
+    "tags": {
+      "amenity": "college",
+      "name": "Dr D Y Patil College of Agricultural Business Management"
+    }
+  },
+  {
+    "id": 11411784472,
+    "type": "node",
+    "category": "schools",
+    "name": "Dr. D. Y. Patil College of Architecture",
+    "lat": 18.647313,
+    "lon": 73.76036,
+    "tags": {
+      "amenity": "college",
+      "name": "Dr. D. Y. Patil College of Architecture"
+    }
+  },
+  {
+    "id": 11411784473,
+    "type": "node",
+    "category": "schools",
+    "name": "DYPCOE WORKSHOP",
+    "lat": 18.644319,
+    "lon": 73.76003,
+    "tags": {
+      "amenity": "college",
+      "name": "DYPCOE WORKSHOP"
+    }
+  },
+  {
+    "id": 11422209903,
+    "type": "node",
+    "category": "schools",
+    "name": "Sarhad College of Arts, Commerce and Science",
+    "lat": 18.454997,
+    "lon": 73.85409,
+    "tags": {
+      "amenity": "college",
+      "name": "Sarhad College of Arts, Commerce and Science",
+      "phone": "+912024368621",
+      "website": "http://www.sarhadcollege.education"
+    }
+  },
+  {
+    "id": 11507953891,
+    "type": "node",
+    "category": "schools",
+    "name": "Infant Jesus School",
+    "lat": 18.603104,
+    "lon": 73.770844,
+    "tags": {
+      "amenity": "school",
+      "name": "Infant Jesus School",
+      "operator": "Ministry of School Education"
+    }
+  },
+  {
+    "id": 11508114799,
+    "type": "node",
+    "category": "schools",
+    "name": "Ministry of School Education",
+    "lat": 18.646905,
+    "lon": 73.755158,
+    "tags": {
+      "amenity": "school",
+      "operator": "Ministry of School Education"
+    }
+  },
+  {
+    "id": 11508379407,
+    "type": "node",
+    "category": "schools",
+    "name": "Hutatma Bhagatsing VidyaMandir",
+    "lat": 18.579236,
+    "lon": 73.830906,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "ST Road, Dapodi",
+      "amenity": "school",
+      "name": "Hutatma Bhagatsing VidyaMandir",
+      "operator": "Pimpri Chinchwad Muncipal Corporation"
+    }
+  },
+  {
+    "id": 11687981989,
+    "type": "node",
+    "category": "schools",
+    "name": "Old Orbis School",
+    "lat": 18.532547,
+    "lon": 73.950108,
+    "tags": {
+      "amenity": "school",
+      "name": "Old Orbis School"
+    }
+  },
+  {
+    "id": 11703326044,
+    "type": "node",
+    "category": "schools",
+    "name": "Sahyadri international school and junior college",
+    "lat": 18.537721,
+    "lon": 73.794663,
+    "tags": {
+      "amenity": "school",
+      "name": "Sahyadri international school and junior college"
+    }
+  },
+  {
+    "id": 12005356770,
+    "type": "node",
+    "category": "schools",
+    "name": "S.B.B alias Appasaheb Jedhe Arts, Commerce & Science College",
+    "lat": 18.506909,
+    "lon": 73.857189,
+    "tags": {
+      "addr:street": "Dinakarrao Javalkar Path",
+      "amenity": "college",
+      "name": "S.B.B alias Appasaheb Jedhe Arts, Commerce & Science College",
+      "website": "https://jedhecollege.ac.in/"
+    }
+  },
+  {
+    "id": 12049076645,
+    "type": "node",
+    "category": "schools",
+    "name": "Hindustan Antibiotics School",
+    "lat": 18.625316,
+    "lon": 73.811503,
+    "tags": {
+      "addr:city": "pimpri",
+      "addr:street": "Old Pune–Mumbai Highway",
+      "amenity": "school",
+      "name": "Hindustan Antibiotics School"
+    }
+  },
+  {
+    "id": 12176164667,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.517356,
+    "lon": 73.853121,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Kishore Bhadbhade Path",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 12176173301,
+    "type": "node",
+    "category": "schools",
+    "name": "Delhi Public School",
+    "lat": 18.465507,
+    "lon": 73.92372,
+    "tags": {
+      "amenity": "school",
+      "name": "Delhi Public School"
+    }
+  },
+  {
+    "id": 12216287902,
+    "type": "node",
+    "category": "schools",
+    "name": "Ekalavya Shikshan Sanstha",
+    "lat": 18.502563,
+    "lon": 73.795484,
+    "tags": {
+      "addr:street": "DP Road",
+      "amenity": "college",
+      "name": "Ekalavya Shikshan Sanstha",
+      "website": "http://esspoly.in/"
+    }
+  },
+  {
+    "id": 12387348953,
+    "type": "node",
+    "category": "schools",
+    "name": "Government Urdu Teachers College (For Women)",
+    "lat": 18.508164,
+    "lon": 73.874341,
+    "tags": {
+      "amenity": "college",
+      "name": "Government Urdu Teachers College (For Women)"
+    }
+  },
+  {
+    "id": 12533862708,
+    "type": "node",
+    "category": "schools",
+    "name": "Lexicon International school Kalyani Nagar",
+    "lat": 18.546353,
+    "lon": 73.901117,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Central Avenue",
+      "amenity": "school",
+      "name": "Lexicon International school Kalyani Nagar"
+    }
+  },
+  {
+    "id": 12976993801,
+    "type": "node",
+    "category": "schools",
+    "name": "Biotechnology Department, Fergusson College",
+    "lat": 18.526422,
+    "lon": 73.840238,
+    "tags": {
+      "addr:street": "Chaturshringi Road",
+      "amenity": "college",
+      "name": "Biotechnology Department, Fergusson College",
+      "opening_hours": "Mo-Sa 11:00-16:00",
+      "phone": "020-67656456",
+      "website": "https://www.fergusson.edu"
+    }
+  },
+  {
+    "id": 13134364701,
+    "type": "node",
+    "category": "schools",
+    "name": "Vishwakarma University",
+    "lat": 18.460316,
+    "lon": 73.8836,
+    "tags": {
+      "addr:street": "Kondhwa Road",
+      "amenity": "university",
+      "name": "Vishwakarma University",
+      "phone": "+91 9067002223;+91 9590300911",
+      "website": "https://admission.vupune.ac.in/"
+    }
+  },
+  {
+    "id": 13189105124,
+    "type": "node",
+    "category": "schools",
+    "name": "Dhruv Global School",
+    "lat": 18.454284,
+    "lon": 73.923356,
+    "tags": {
+      "amenity": "school",
+      "name": "Dhruv Global School"
+    }
+  },
+  {
+    "id": 13296572429,
+    "type": "node",
+    "category": "schools",
+    "name": "Rasiklal M. Dhariwal International School Ground",
+    "lat": 18.632723,
+    "lon": 73.776281,
+    "tags": {
+      "amenity": "school",
+      "name": "Rasiklal M. Dhariwal International School Ground"
+    }
+  },
+  {
+    "id": 13380437570,
+    "type": "node",
+    "category": "schools",
+    "name": "Swami Samarth",
+    "lat": 18.632075,
+    "lon": 73.84073,
+    "tags": {
+      "addr:city": "pune",
+      "amenity": "school",
+      "name": "Swami Samarth"
+    }
+  },
+  {
+    "id": 13380633652,
+    "type": "node",
+    "category": "schools",
+    "name": "ma na pa school",
+    "lat": 18.5964,
+    "lon": 73.924873,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Lohgaon - Shinde Vadgaon Road",
+      "amenity": "school",
+      "name": "ma na pa school"
+    }
+  },
+  {
+    "id": 13380637311,
+    "type": "node",
+    "category": "schools",
+    "name": "sant tukaram school graund",
+    "lat": 18.602177,
+    "lon": 73.92861,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "sant tukaram school graund"
+    }
+  },
+  {
+    "id": 13380912514,
+    "type": "node",
+    "category": "schools",
+    "name": "sant tukaram collage",
+    "lat": 18.59762,
+    "lon": 73.924195,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Lohgaon - Shinde Vadgaon Road",
+      "amenity": "college",
+      "name": "sant tukaram collage"
+    }
+  },
+  {
+    "id": 13390674189,
+    "type": "node",
+    "category": "schools",
+    "name": "ahilyadevi high school",
+    "lat": 18.518441,
+    "lon": 73.85139,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "ahilyadevi high school"
+    }
+  },
+  {
+    "id": 13394413446,
+    "type": "node",
+    "category": "schools",
+    "name": "COEP",
+    "lat": 18.53051,
+    "lon": 73.857938,
+    "tags": {
+      "amenity": "college",
+      "name": "COEP"
+    }
+  },
+  {
+    "id": 13523471810,
+    "type": "node",
+    "category": "schools",
+    "name": "Ulhaas Ground",
+    "lat": 18.555778,
+    "lon": 73.961488,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Dhole Patil College rd",
+      "amenity": "college",
+      "name": "Ulhaas Ground",
+      "operator": "Dhole Patil Society",
+      "website": "https://dpes.org.in/"
+    }
+  },
+  {
+    "id": 13585374302,
+    "type": "node",
+    "category": "schools",
+    "name": "Vishwakarma Institute of Technology & Vishwakrma University Main Gate",
+    "lat": 18.456808,
+    "lon": 73.883227,
+    "tags": {
+      "amenity": "college",
+      "name": "Vishwakarma Institute of Technology & Vishwakrma University Main Gate"
+    }
+  },
+  {
+    "id": 13585374401,
+    "type": "node",
+    "category": "schools",
+    "name": "VIT College Back Gate",
+    "lat": 18.460912,
+    "lon": 73.883792,
+    "tags": {
+      "amenity": "college",
+      "name": "VIT College Back Gate"
+    }
+  },
+  {
+    "id": 13592745101,
+    "type": "node",
+    "category": "schools",
+    "name": "Vishwakarma College of Arts Commerce and Science",
+    "lat": 18.460321,
+    "lon": 73.88293,
+    "tags": {
+      "addr:street": "VIM Private Road",
+      "amenity": "college",
+      "name": "Vishwakarma College of Arts Commerce and Science",
+      "website": "http://vcacs.ac.in"
+    }
+  },
+  {
+    "id": 13619832076,
+    "type": "node",
+    "category": "schools",
+    "name": "DY Patil Sports Ground",
+    "lat": 18.647455,
+    "lon": 73.758712,
+    "tags": {
+      "amenity": "university",
+      "name": "DY Patil Sports Ground"
+    }
+  },
+  {
+    "id": 13619879541,
+    "type": "node",
+    "category": "schools",
+    "name": "Ramkrishna more college ground",
+    "lat": 18.647849,
+    "lon": 73.775872,
+    "tags": {
+      "amenity": "college",
+      "name": "Ramkrishna more college ground"
+    }
+  },
+  {
+    "id": 52755317,
+    "type": "way",
+    "category": "schools",
+    "name": "Army Public School",
+    "lat": 18.517642,
+    "lon": 73.892322,
+    "tags": {
+      "amenity": "school",
+      "name": "Army Public School"
+    }
+  },
+  {
+    "id": 52768576,
+    "type": "way",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya",
+    "lat": 18.518102,
+    "lon": 73.886263,
+    "tags": {
+      "amenity": "school",
+      "name": "Kendriya Vidyalaya"
+    }
+  },
+  {
+    "id": 53348758,
+    "type": "way",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya College of Military Engineering",
+    "lat": 18.587445,
+    "lon": 73.835341,
+    "tags": {
+      "amenity": "school",
+      "name": "Kendriya Vidyalaya College of Military Engineering"
+    }
+  },
+  {
+    "id": 53369945,
+    "type": "way",
+    "category": "schools",
+    "name": "Army Public School Junior Wing",
+    "lat": 18.507865,
+    "lon": 73.888321,
+    "tags": {
+      "amenity": "school",
+      "name": "Army Public School Junior Wing"
+    }
+  },
+  {
+    "id": 53370636,
+    "type": "way",
+    "category": "schools",
+    "name": "Saint Vincent's School",
+    "lat": 18.512776,
+    "lon": 73.87445,
+    "tags": {
+      "amenity": "school",
+      "name": "Saint Vincent's School"
+    }
+  },
+  {
+    "id": 53455333,
+    "type": "way",
+    "category": "schools",
+    "name": "JN Petit Technical High School",
+    "lat": 18.538026,
+    "lon": 73.884139,
+    "tags": {
+      "amenity": "school",
+      "name": "JN Petit Technical High School"
+    }
+  },
+  {
+    "id": 53455430,
+    "type": "way",
+    "category": "schools",
+    "name": "St. Vincent's High School",
+    "lat": 18.512882,
+    "lon": 73.87445,
+    "tags": {
+      "addr:street": "St. Vincent's Street",
+      "amenity": "school",
+      "name": "St. Vincent's High School"
+    }
+  },
+  {
+    "id": 53455444,
+    "type": "way",
+    "category": "schools",
+    "name": "Saint Anne's High School",
+    "lat": 18.513451,
+    "lon": 73.875564,
+    "tags": {
+      "amenity": "school",
+      "name": "Saint Anne's High School"
+    }
+  },
+  {
+    "id": 65158127,
+    "type": "way",
+    "category": "schools",
+    "name": "SM Choksey High School",
+    "lat": 18.515007,
+    "lon": 73.87481,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Convent Street",
+      "amenity": "school",
+      "building": "yes",
+      "name": "SM Choksey High School",
+      "phone": "+91 20 26340053"
+    }
+  },
+  {
+    "id": 67170414,
+    "type": "way",
+    "category": "schools",
+    "name": "Sadhu Vaswani Mission",
+    "lat": 18.524252,
+    "lon": 73.877221,
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Sadhu Vaswani Mission"
+    }
+  },
+  {
+    "id": 108227535,
+    "type": "way",
+    "category": "schools",
+    "name": "Sardar Dastur High School",
+    "lat": 18.520549,
+    "lon": 73.878076,
+    "tags": {
+      "amenity": "school",
+      "name": "Sardar Dastur High School"
+    }
+  },
+  {
+    "id": 109748020,
+    "type": "way",
+    "category": "schools",
+    "name": "Millennium National School",
+    "lat": 18.491637,
+    "lon": 73.810232,
+    "tags": {
+      "addr:street": "Karve Road , Karve Nagar , Pune",
+      "amenity": "school",
+      "name": "Millennium National School"
+    }
+  },
+  {
+    "id": 109754327,
+    "type": "way",
+    "category": "schools",
+    "name": "Marathwada Mitramandal College of Engineering",
+    "lat": 18.490395,
+    "lon": 73.809273,
+    "tags": {
+      "addr:street": "Karve Nagar , Pune",
+      "amenity": "school",
+      "name": "Marathwada Mitramandal College of Engineering"
+    }
+  },
+  {
+    "id": 117380886,
+    "type": "way",
+    "category": "schools",
+    "name": "Don Bosco High School",
+    "lat": 18.553444,
+    "lon": 73.89386,
+    "tags": {
+      "amenity": "school",
+      "name": "Don Bosco High School"
+    }
+  },
+  {
+    "id": 121808792,
+    "type": "way",
+    "category": "schools",
+    "name": "Dobarwadi Municipal School",
+    "lat": 18.517676,
+    "lon": 73.90258,
+    "tags": {
+      "amenity": "school",
+      "name": "Dobarwadi Municipal School"
+    }
+  },
+  {
+    "id": 125487665,
+    "type": "way",
+    "category": "schools",
+    "name": "Delhi Public School",
+    "lat": 18.465608,
+    "lon": 73.923765,
+    "tags": {
+      "amenity": "school",
+      "name": "Delhi Public School"
+    }
+  },
+  {
+    "id": 127046361,
+    "type": "way",
+    "category": "schools",
+    "name": "Bishop's School",
+    "lat": 18.552672,
+    "lon": 73.905458,
+    "tags": {
+      "amenity": "school",
+      "name": "Bishop's School"
+    }
+  },
+  {
+    "id": 132813468,
+    "type": "way",
+    "category": "schools",
+    "name": "Dr. Kalmadi Shamarao High School",
+    "lat": 18.502353,
+    "lon": 73.826748,
+    "tags": {
+      "amenity": "school",
+      "name": "Dr. Kalmadi Shamarao High School"
+    }
+  },
+  {
+    "id": 145694256,
+    "type": "way",
+    "category": "schools",
+    "name": "Muktangan English School",
+    "lat": 18.49001,
+    "lon": 73.851955,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Golwalkar Guruji Path",
+      "amenity": "school",
+      "building": "residential",
+      "name": "Muktangan English School"
+    }
+  },
+  {
+    "id": 164793354,
+    "type": "way",
+    "category": "schools",
+    "name": "SNBP international school",
+    "lat": 18.600915,
+    "lon": 73.787093,
+    "tags": {
+      "addr:city": "Pimpri-Chinchwad",
+      "addr:street": "Shivraj Nagar - Kokane Chowk Road",
+      "amenity": "school",
+      "name": "SNBP international school",
+      "website": "http://www.snbpinstitutes.com/"
+    }
+  },
+  {
+    "id": 178326748,
+    "type": "way",
+    "category": "schools",
+    "name": "Shri Chakradhar Swami School",
+    "lat": 18.447464,
+    "lon": 73.849454,
+    "tags": {
+      "amenity": "school",
+      "name": "Shri Chakradhar Swami School"
+    }
+  },
+  {
+    "id": 180530085,
+    "type": "way",
+    "category": "schools",
+    "name": "Moula Mohammed Ali Johar Urdu School",
+    "lat": 18.514868,
+    "lon": 73.861392,
+    "tags": {
+      "addr:street": "Raviwar Peth, Pune",
+      "amenity": "school",
+      "name": "Moula Mohammed Ali Johar Urdu School"
+    }
+  },
+  {
+    "id": 187877571,
+    "type": "way",
+    "category": "schools",
+    "name": "Symbosis International School",
+    "lat": 18.56585,
+    "lon": 73.907579,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Symbiosis Rd",
+      "amenity": "school",
+      "name": "Symbosis International School",
+      "website": "https://sis.ac.in"
+    }
+  },
+  {
+    "id": 202062068,
+    "type": "way",
+    "category": "schools",
+    "name": "Bal Shikshan Mandir",
+    "lat": 18.518112,
+    "lon": 73.839343,
+    "tags": {
+      "amenity": "school",
+      "name": "Bal Shikshan Mandir"
+    }
+  },
+  {
+    "id": 207872395,
+    "type": "way",
+    "category": "schools",
+    "name": "Jnana Prabodhini Prashala",
+    "lat": 18.511851,
+    "lon": 73.845509,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Sadashiv Peth",
+      "amenity": "school",
+      "name": "Jnana Prabodhini Prashala",
+      "phone": "+91-20-24207000",
+      "website": "https://www.prashala.jnanaprabodhini.org/"
+    }
+  },
+  {
+    "id": 207872400,
+    "type": "way",
+    "category": "schools",
+    "name": "New English School , Tilak Road",
+    "lat": 18.510712,
+    "lon": 73.84453,
+    "tags": {
+      "amenity": "school",
+      "name": "New English School , Tilak Road",
+      "operator": "Deccan Education Society",
+      "website": "https://www.despune.org/newenglishschool-pune"
+    }
+  },
+  {
+    "id": 207872410,
+    "type": "way",
+    "category": "schools",
+    "name": "Sir Parshurambhau College",
+    "lat": 18.506212,
+    "lon": 73.848584,
+    "tags": {
+      "amenity": "school",
+      "name": "Sir Parshurambhau College"
+    }
+  },
+  {
+    "id": 207872411,
+    "type": "way",
+    "category": "schools",
+    "name": "Vimlabai Garware Prashala",
+    "lat": 18.513524,
+    "lon": 73.840617,
+    "tags": {
+      "amenity": "school",
+      "name": "Vimlabai Garware Prashala"
+    }
+  },
+  {
+    "id": 208180363,
+    "type": "way",
+    "category": "schools",
+    "name": "Brihan Maharashtra College of Commerce",
+    "lat": 18.52105,
+    "lon": 73.835372,
+    "tags": {
+      "amenity": "school",
+      "name": "Brihan Maharashtra College of Commerce"
+    }
+  },
+  {
+    "id": 208240055,
+    "type": "way",
+    "category": "schools",
+    "name": "New English School Ramanbag",
+    "lat": 18.517232,
+    "lon": 73.849148,
+    "tags": {
+      "amenity": "school",
+      "name": "New English School Ramanbag",
+      "operator": "Deccan Education Society",
+      "website": "https://www.despune.org/newenglishschool-ramanbaug"
+    }
+  },
+  {
+    "id": 208958214,
+    "type": "way",
+    "category": "schools",
+    "name": "Paranjape Nursery School",
+    "lat": 18.501642,
+    "lon": 73.808612,
+    "tags": {
+      "amenity": "school",
+      "name": "Paranjape Nursery School"
+    }
+  },
+  {
+    "id": 210343962,
+    "type": "way",
+    "category": "schools",
+    "name": "DAV Public School",
+    "lat": 18.559972,
+    "lon": 73.803928,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "school",
+      "name": "DAV Public School",
+      "phone": "+91 20 2589 0081;+91 20 2589 3377",
+      "website": "https://davaundhpune.org/"
+    }
+  },
+  {
+    "id": 210343967,
+    "type": "way",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya Ganeshkhind",
+    "lat": 18.554462,
+    "lon": 73.818358,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "University Road",
+      "amenity": "school",
+      "name": "Kendriya Vidyalaya Ganeshkhind",
+      "phone": "+91 20  2970 8600",
+      "website": "https://ganeshkhind.kvs.ac.in/"
+    }
+  },
+  {
+    "id": 210576104,
+    "type": "way",
+    "category": "schools",
+    "name": "Navin Marathi Shala",
+    "lat": 18.518388,
+    "lon": 73.849153,
+    "tags": {
+      "amenity": "school",
+      "name": "Navin Marathi Shala",
+      "operator": "Deccan Education Society",
+      "website": "https://www.despune.org/navinmarathishala-pune"
+    }
+  },
+  {
+    "id": 213830162,
+    "type": "way",
+    "category": "schools",
+    "name": "Kataria Highschool",
+    "lat": 18.497698,
+    "lon": 73.866605,
+    "tags": {
+      "amenity": "school",
+      "name": "Kataria Highschool"
+    }
+  },
+  {
+    "id": 215998838,
+    "type": "way",
+    "category": "schools",
+    "name": "Wadia College",
+    "lat": 18.53243,
+    "lon": 73.879906,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Bund Garden Road",
+      "amenity": "school",
+      "name": "Wadia College"
+    }
+  },
+  {
+    "id": 217278788,
+    "type": "way",
+    "category": "schools",
+    "name": "MES Bal Shikshan Mandir English Medium School",
+    "lat": 18.5041,
+    "lon": 73.817336,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Chhatrapati Rajaram Marg",
+      "amenity": "school",
+      "name": "MES Bal Shikshan Mandir English Medium School",
+      "operator": "Maharashtra Education Society"
+    }
+  },
+  {
+    "id": 217278789,
+    "type": "way",
+    "category": "schools",
+    "name": "Cummins College of Engineering for Women",
+    "lat": 18.486073,
+    "lon": 73.816228,
+    "tags": {
+      "addr:street": "Karvenagar , Pune",
+      "amenity": "school",
+      "name": "Cummins College of Engineering for Women"
+    }
+  },
+  {
+    "id": 217278791,
+    "type": "way",
+    "category": "schools",
+    "name": "Vikhe Patil Memorial School",
+    "lat": 18.522709,
+    "lon": 73.826076,
+    "tags": {
+      "amenity": "school",
+      "name": "Vikhe Patil Memorial School"
+    }
+  },
+  {
+    "id": 217295587,
+    "type": "way",
+    "category": "schools",
+    "name": "L. R. Shinde Highschool",
+    "lat": 18.486731,
+    "lon": 73.848345,
+    "tags": {
+      "amenity": "school",
+      "name": "L. R. Shinde Highschool"
+    }
+  },
+  {
+    "id": 217431353,
+    "type": "way",
+    "category": "schools",
+    "name": "Apte Prashala & Jn. College",
+    "lat": 18.518323,
+    "lon": 73.843341,
+    "tags": {
+      "addr:street": "Apte Path",
+      "amenity": "school",
+      "name": "Apte Prashala & Jn. College"
+    }
+  },
+  {
+    "id": 217773603,
+    "type": "way",
+    "category": "schools",
+    "name": "Ahilyadevi Girls' Highschool",
+    "lat": 18.518313,
+    "lon": 73.851398,
+    "tags": {
+      "amenity": "school",
+      "name": "Ahilyadevi Girls' Highschool"
+    }
+  },
+  {
+    "id": 217773606,
+    "type": "way",
+    "category": "schools",
+    "name": "Gopal Highschool",
+    "lat": 18.510678,
+    "lon": 73.851747,
+    "tags": {
+      "amenity": "school",
+      "name": "Gopal Highschool"
+    }
+  },
+  {
+    "id": 217773608,
+    "type": "way",
+    "category": "schools",
+    "name": "His Highness Chintamanrao Patwardhan Highschool",
+    "lat": 18.515073,
+    "lon": 73.853023,
+    "tags": {
+      "amenity": "school",
+      "name": "His Highness Chintamanrao Patwardhan Highschool"
+    }
+  },
+  {
+    "id": 217773611,
+    "type": "way",
+    "category": "schools",
+    "name": "Maharashtriya Mandal",
+    "lat": 18.509743,
+    "lon": 73.847749,
+    "tags": {
+      "addr:street": "Lokmanya Tilak Marg",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 217773612,
+    "type": "way",
+    "category": "schools",
+    "name": "Nutan Marathi Vidyalaya",
+    "lat": 18.515398,
+    "lon": 73.854361,
+    "tags": {
+      "amenity": "school",
+      "name": "Nutan Marathi Vidyalaya"
+    }
+  },
+  {
+    "id": 217773613,
+    "type": "way",
+    "category": "schools",
+    "name": "Nutan Marathi Vidyalaya",
+    "lat": 18.516824,
+    "lon": 73.853262,
+    "tags": {
+      "amenity": "school",
+      "name": "Nutan Marathi Vidyalaya"
+    }
+  },
+  {
+    "id": 217773614,
+    "type": "way",
+    "category": "schools",
+    "name": "Perugate Bhave School",
+    "lat": 18.510978,
+    "lon": 73.847298,
+    "tags": {
+      "amenity": "school",
+      "name": "Perugate Bhave School"
+    }
+  },
+  {
+    "id": 217773618,
+    "type": "way",
+    "category": "schools",
+    "name": "Pune Vidyarthi Gruha",
+    "lat": 18.509123,
+    "lon": 73.851754,
+    "tags": {
+      "amenity": "school",
+      "name": "Pune Vidyarthi Gruha"
+    }
+  },
+  {
+    "id": 217773619,
+    "type": "way",
+    "category": "schools",
+    "name": "Renuka Swaroop Highschool",
+    "lat": 18.510158,
+    "lon": 73.849674,
+    "tags": {
+      "amenity": "school",
+      "name": "Renuka Swaroop Highschool"
+    }
+  },
+  {
+    "id": 217773620,
+    "type": "way",
+    "category": "schools",
+    "name": "Shrimati Nathibai Damodar Thakarsi Kanyashala",
+    "lat": 18.516084,
+    "lon": 73.851235,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Narsimha Chintaman Kelkar Road",
+      "amenity": "school",
+      "name": "Shrimati Nathibai Damodar Thakarsi Kanyashala"
+    }
+  },
+  {
+    "id": 218059562,
+    "type": "way",
+    "category": "schools",
+    "name": "Gogate Prashala",
+    "lat": 18.514968,
+    "lon": 73.846782,
+    "tags": {
+      "amenity": "school",
+      "name": "Gogate Prashala"
+    }
+  },
+  {
+    "id": 218059568,
+    "type": "way",
+    "category": "schools",
+    "name": "Vidya Niketan",
+    "lat": 18.502458,
+    "lon": 73.813513,
+    "tags": {
+      "amenity": "school",
+      "name": "Vidya Niketan",
+      "operator": "Pune Municipal Corporation"
+    }
+  },
+  {
+    "id": 218405515,
+    "type": "way",
+    "category": "schools",
+    "name": "Government Technical Highschool",
+    "lat": 18.524498,
+    "lon": 73.845073,
+    "tags": {
+      "amenity": "school",
+      "name": "Government Technical Highschool"
+    }
+  },
+  {
+    "id": 218405516,
+    "type": "way",
+    "category": "schools",
+    "name": "Modern Highschool",
+    "lat": 18.524901,
+    "lon": 73.848309,
+    "tags": {
+      "amenity": "school",
+      "name": "Modern Highschool"
+    }
+  },
+  {
+    "id": 218697333,
+    "type": "way",
+    "category": "schools",
+    "name": "MIT School and Junior College of Commerce & Science",
+    "lat": 18.508666,
+    "lon": 73.820283,
+    "tags": {
+      "addr:street": "127/1A, Paud Rd, Mahaganesh Colony, Kothrud, Pune, Maharashtra 411038",
+      "amenity": "school",
+      "name": "MIT School and Junior College of Commerce & Science"
+    }
+  },
+  {
+    "id": 218834781,
+    "type": "way",
+    "category": "schools",
+    "name": "Panditrao Agashe School",
+    "lat": 18.517364,
+    "lon": 73.8302,
+    "tags": {
+      "amenity": "school",
+      "name": "Panditrao Agashe School"
+    }
+  },
+  {
+    "id": 224968992,
+    "type": "way",
+    "category": "schools",
+    "name": "Kroot Memorial School",
+    "lat": 18.484104,
+    "lon": 73.903918,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "Kroot Memorial School"
+    }
+  },
+  {
+    "id": 224968993,
+    "type": "way",
+    "category": "schools",
+    "name": "Sungrace High School",
+    "lat": 18.48289,
+    "lon": 73.904479,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Salunke Vihar Road",
+      "amenity": "school",
+      "name": "Sungrace High School",
+      "phone": "+912026852919"
+    }
+  },
+  {
+    "id": 229849153,
+    "type": "way",
+    "category": "schools",
+    "name": "St. Joseph's Girl's Convent",
+    "lat": 18.539596,
+    "lon": 73.819905,
+    "tags": {
+      "amenity": "school",
+      "name": "St. Joseph's Girl's Convent"
+    }
+  },
+  {
+    "id": 235076005,
+    "type": "way",
+    "category": "schools",
+    "name": "Dr Mrs Erin N Nagarwala Day School (E.N.N.S)",
+    "lat": 18.547673,
+    "lon": 73.898308,
+    "tags": {
+      "addr:city": "pune",
+      "amenity": "school",
+      "name": "Dr Mrs Erin N Nagarwala Day School (E.N.N.S)"
+    }
+  },
+  {
+    "id": 235117501,
+    "type": "way",
+    "category": "schools",
+    "name": "MES Bal Shikshan Mandir English Medium School",
+    "lat": 18.503876,
+    "lon": 73.817037,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Chhatrapati Rajaram Marg",
+      "amenity": "school",
+      "building": "yes",
+      "name": "MES Bal Shikshan Mandir English Medium School",
+      "operator": "Maharashtra Education Society"
+    }
+  },
+  {
+    "id": 235293162,
+    "type": "way",
+    "category": "schools",
+    "name": "Raja Shree Shivrai Pratishthan School",
+    "lat": 18.511228,
+    "lon": 73.812199,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Rambaug Colony Road",
+      "amenity": "school",
+      "name": "Raja Shree Shivrai Pratishthan School"
+    }
+  },
+  {
+    "id": 249147717,
+    "type": "way",
+    "category": "schools",
+    "name": "Bhaskaracharya Pratishthan",
+    "lat": 18.515064,
+    "lon": 73.825278,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "V. G. Damle Path",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Bhaskaracharya Pratishthan"
+    }
+  },
+  {
+    "id": 250116192,
+    "type": "way",
+    "category": "schools",
+    "name": "Mahesh Vidyalaya",
+    "lat": 18.50006,
+    "lon": 73.802546,
+    "tags": {
+      "amenity": "school",
+      "name": "Mahesh Vidyalaya"
+    }
+  },
+  {
+    "id": 251878756,
+    "type": "way",
+    "category": "schools",
+    "name": "Sevasadan English Medium School",
+    "lat": 18.501052,
+    "lon": 73.832076,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Maai Mangeshkar Path",
+      "amenity": "school",
+      "name": "Sevasadan English Medium School",
+      "operator": "Pune Sevasadan Society"
+    }
+  },
+  {
+    "id": 263813852,
+    "type": "way",
+    "category": "schools",
+    "name": "Sanas Vidyalaya",
+    "lat": 18.460058,
+    "lon": 73.812222,
+    "tags": {
+      "amenity": "school",
+      "name": "Sanas Vidyalaya"
+    }
+  },
+  {
+    "id": 264444881,
+    "type": "way",
+    "category": "schools",
+    "name": "Sevasadan",
+    "lat": 18.514167,
+    "lon": 73.852949,
+    "tags": {
+      "amenity": "school",
+      "name": "Sevasadan"
+    }
+  },
+  {
+    "id": 275490280,
+    "type": "way",
+    "category": "schools",
+    "name": "Jog College",
+    "lat": 18.505233,
+    "lon": 73.818475,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Chhatrapati Rajaram Maharaj Path",
+      "amenity": "school",
+      "name": "Jog College"
+    }
+  },
+  {
+    "id": 280784413,
+    "type": "way",
+    "category": "schools",
+    "name": "Shri Shivaji Preparatory Military School",
+    "lat": 18.526807,
+    "lon": 73.852958,
+    "tags": {
+      "amenity": "school",
+      "name": "Shri Shivaji Preparatory Military School"
+    }
+  },
+  {
+    "id": 281844134,
+    "type": "way",
+    "category": "schools",
+    "name": "Anusayabai Khilare Shala",
+    "lat": 18.506665,
+    "lon": 73.833163,
+    "tags": {
+      "amenity": "school",
+      "name": "Anusayabai Khilare Shala"
+    }
+  },
+  {
+    "id": 281844137,
+    "type": "way",
+    "category": "schools",
+    "name": "N. V. Gadgil Vidyalay",
+    "lat": 18.518594,
+    "lon": 73.853469,
+    "tags": {
+      "amenity": "school",
+      "name": "N. V. Gadgil Vidyalay"
+    }
+  },
+  {
+    "id": 281883252,
+    "type": "way",
+    "category": "schools",
+    "name": "Spicer Highschool",
+    "lat": 18.563546,
+    "lon": 73.815951,
+    "tags": {
+      "amenity": "school",
+      "name": "Spicer Highschool"
+    }
+  },
+  {
+    "id": 282054946,
+    "type": "way",
+    "category": "schools",
+    "name": "Annabhau Sathe Shalagruh",
+    "lat": 18.513727,
+    "lon": 73.850551,
+    "tags": {
+      "amenity": "school",
+      "name": "Annabhau Sathe Shalagruh"
+    }
+  },
+  {
+    "id": 282102070,
+    "type": "way",
+    "category": "schools",
+    "name": "Rasta Peth Education Society",
+    "lat": 18.521828,
+    "lon": 73.86659,
+    "tags": {
+      "amenity": "school",
+      "name": "Rasta Peth Education Society"
+    }
+  },
+  {
+    "id": 290034466,
+    "type": "way",
+    "category": "schools",
+    "name": "Acharya Vinoba Bhave Vidyalay",
+    "lat": 18.50856,
+    "lon": 73.865287,
+    "tags": {
+      "amenity": "school",
+      "name": "Acharya Vinoba Bhave Vidyalay"
+    }
+  },
+  {
+    "id": 290034472,
+    "type": "way",
+    "category": "schools",
+    "name": "Sardar Kanhoji Angre Vidyalay",
+    "lat": 18.508892,
+    "lon": 73.858621,
+    "tags": {
+      "amenity": "school",
+      "name": "Sardar Kanhoji Angre Vidyalay"
+    }
+  },
+  {
+    "id": 290034473,
+    "type": "way",
+    "category": "schools",
+    "name": "Vasantrao Vaidya Vidyalay",
+    "lat": 18.504296,
+    "lon": 73.84092,
+    "tags": {
+      "amenity": "school",
+      "name": "Vasantrao Vaidya Vidyalay"
+    }
+  },
+  {
+    "id": 292610071,
+    "type": "way",
+    "category": "schools",
+    "name": "Erin Nagarwala School",
+    "lat": 18.550299,
+    "lon": 73.899186,
+    "tags": {
+      "amenity": "school",
+      "name": "Erin Nagarwala School"
+    }
+  },
+  {
+    "id": 293996152,
+    "type": "way",
+    "category": "schools",
+    "name": "Subhedar Ramji Maloji Ambedkar Vidyalay",
+    "lat": 18.55922,
+    "lon": 73.908949,
+    "tags": {
+      "amenity": "school",
+      "name": "Subhedar Ramji Maloji Ambedkar Vidyalay"
+    }
+  },
+  {
+    "id": 298298055,
+    "type": "way",
+    "category": "schools",
+    "name": "Kalmadi Shamrao Highschool",
+    "lat": 18.511695,
+    "lon": 73.833679,
+    "tags": {
+      "amenity": "school",
+      "name": "Kalmadi Shamrao Highschool"
+    }
+  },
+  {
+    "id": 301018026,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.556146,
+    "lon": 73.881854,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 317550149,
+    "type": "way",
+    "category": "schools",
+    "name": "Lal Bahadur Shastri Vidyalay",
+    "lat": 18.523065,
+    "lon": 73.850594,
+    "tags": {
+      "amenity": "school",
+      "name": "Lal Bahadur Shastri Vidyalay"
+    }
+  },
+  {
+    "id": 331478717,
+    "type": "way",
+    "category": "schools",
+    "name": "Bharatiya Vidyabhavan",
+    "lat": 18.531232,
+    "lon": 73.831188,
+    "tags": {
+      "amenity": "school",
+      "name": "Bharatiya Vidyabhavan"
+    }
+  },
+  {
+    "id": 331478723,
+    "type": "way",
+    "category": "schools",
+    "name": "Hutatma Rajguru Vidyalay",
+    "lat": 18.526643,
+    "lon": 73.834089,
+    "tags": {
+      "amenity": "school",
+      "name": "Hutatma Rajguru Vidyalay"
+    }
+  },
+  {
+    "id": 331478729,
+    "type": "way",
+    "category": "schools",
+    "name": "Vidya Bhavan High School And Junior College",
+    "lat": 18.530903,
+    "lon": 73.838493,
+    "tags": {
+      "amenity": "school",
+      "name": "Vidya Bhavan High School And Junior College"
+    }
+  },
+  {
+    "id": 331500158,
+    "type": "way",
+    "category": "schools",
+    "name": "St. Felix Highschool",
+    "lat": 18.540817,
+    "lon": 73.881313,
+    "tags": {
+      "amenity": "school",
+      "name": "St. Felix Highschool"
+    }
+  },
+  {
+    "id": 331532101,
+    "type": "way",
+    "category": "schools",
+    "name": "Aksharnandan",
+    "lat": 18.533471,
+    "lon": 73.8279,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Senapati Bapat Marg",
+      "amenity": "school",
+      "name": "Aksharnandan",
+      "operator": "N.G. Naralkar Foundation"
+    }
+  },
+  {
+    "id": 331532102,
+    "type": "way",
+    "category": "schools",
+    "name": "Erandawane Madhyamik Vidyalay",
+    "lat": 18.509717,
+    "lon": 73.829157,
+    "tags": {
+      "amenity": "school",
+      "name": "Erandawane Madhyamik Vidyalay"
+    }
+  },
+  {
+    "id": 331532104,
+    "type": "way",
+    "category": "schools",
+    "name": "Kridaniketan Shala",
+    "lat": 18.492119,
+    "lon": 73.832156,
+    "tags": {
+      "amenity": "school",
+      "name": "Kridaniketan Shala"
+    }
+  },
+  {
+    "id": 331532106,
+    "type": "way",
+    "category": "schools",
+    "name": "Satyanarayan Shivlal Agarwal Shala",
+    "lat": 18.500657,
+    "lon": 73.841827,
+    "tags": {
+      "amenity": "school",
+      "name": "Satyanarayan Shivlal Agarwal Shala"
+    }
+  },
+  {
+    "id": 331532108,
+    "type": "way",
+    "category": "schools",
+    "name": "Sinhagad Spring Dale School",
+    "lat": 18.507946,
+    "lon": 73.835532,
+    "tags": {
+      "amenity": "school",
+      "name": "Sinhagad Spring Dale School"
+    }
+  },
+  {
+    "id": 359571957,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.625178,
+    "lon": 73.811528,
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
+  },
+  {
+    "id": 359749077,
+    "type": "way",
+    "category": "schools",
+    "name": "Spenglish medium school",
+    "lat": 18.606723,
+    "lon": 73.763998,
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Spenglish medium school"
+    }
+  },
+  {
+    "id": 359925755,
+    "type": "way",
+    "category": "schools",
+    "name": "Periwinkle English medium school",
+    "lat": 18.515713,
+    "lon": 73.772162,
+    "tags": {
+      "amenity": "school",
+      "name": "Periwinkle English medium school"
+    }
+  },
+  {
+    "id": 359988654,
+    "type": "way",
+    "category": "schools",
+    "name": "GR Palkar Primary School",
+    "lat": 18.492875,
+    "lon": 73.822992,
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "GR Palkar Primary School"
+    }
+  },
+  {
+    "id": 360321613,
+    "type": "way",
+    "category": "schools",
+    "name": "Podar International School",
+    "lat": 18.456417,
+    "lon": 73.833968,
+    "tags": {
+      "addr:city": "Ambegaon",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Podar International School",
+      "website": "https://www.podareducation.org/school/ambegaon"
+    }
+  },
+  {
+    "id": 364911195,
+    "type": "way",
+    "category": "schools",
+    "name": "Sunday science school Wakad",
+    "lat": 18.602618,
+    "lon": 73.76488,
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Sunday science school Wakad"
+    }
+  },
+  {
+    "id": 371368740,
+    "type": "way",
+    "category": "schools",
+    "name": "DSK School",
+    "lat": 18.44124,
+    "lon": 73.801179,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "DSK School",
+      "operator": "D S Kulkarni Educational Trust",
+      "phone": "02024380047"
+    }
+  },
+  {
+    "id": 380363652,
+    "type": "way",
+    "category": "schools",
+    "name": "Adarsh Vidyalay",
+    "lat": 18.510327,
+    "lon": 73.854852,
+    "tags": {
+      "amenity": "school",
+      "name": "Adarsh Vidyalay"
+    }
+  },
+  {
+    "id": 380363653,
+    "type": "way",
+    "category": "schools",
+    "name": "Agarkar Madhyamik Vidyalay",
+    "lat": 18.520858,
+    "lon": 73.865206,
+    "tags": {
+      "amenity": "school",
+      "name": "Agarkar Madhyamik Vidyalay"
+    }
+  },
+  {
+    "id": 380363654,
+    "type": "way",
+    "category": "schools",
+    "name": "Ashok Vidyalay",
+    "lat": 18.511364,
+    "lon": 73.845438,
+    "tags": {
+      "amenity": "school",
+      "name": "Ashok Vidyalay"
+    }
+  },
+  {
+    "id": 380363663,
+    "type": "way",
+    "category": "schools",
+    "name": "Ornellas Highschool",
+    "lat": 18.516667,
+    "lon": 73.869888,
+    "tags": {
+      "amenity": "school",
+      "name": "Ornellas Highschool"
+    }
+  },
+  {
+    "id": 380363664,
+    "type": "way",
+    "category": "schools",
+    "name": "Raja Dhanraj Girji Madhyamik Vidyalay",
+    "lat": 18.518525,
+    "lon": 73.863602,
+    "tags": {
+      "amenity": "school",
+      "name": "Raja Dhanraj Girji Madhyamik Vidyalay"
+    }
+  },
+  {
+    "id": 380363666,
+    "type": "way",
+    "category": "schools",
+    "name": "Saraswati Mandir",
+    "lat": 18.509919,
+    "lon": 73.854119,
+    "tags": {
+      "amenity": "school",
+      "name": "Saraswati Mandir"
+    }
+  },
+  {
+    "id": 380363667,
+    "type": "way",
+    "category": "schools",
+    "name": "Sardar Laxmibai Raste Prathamik Vidyalay",
+    "lat": 18.520246,
+    "lon": 73.865293,
+    "tags": {
+      "amenity": "school",
+      "name": "Sardar Laxmibai Raste Prathamik Vidyalay"
+    }
+  },
+  {
+    "id": 380417663,
+    "type": "way",
+    "category": "schools",
+    "name": "Netaji Subhash Chandra Bose School",
+    "lat": 18.551181,
+    "lon": 73.888503,
+    "tags": {
+      "amenity": "school",
+      "name": "Netaji Subhash Chandra Bose School"
+    }
+  },
+  {
+    "id": 402368938,
+    "type": "way",
+    "category": "schools",
+    "name": "Yashwantrao Chavan Academy of Development Administration",
+    "lat": 18.546392,
+    "lon": 73.822564,
+    "tags": {
+      "amenity": "school",
+      "name": "Yashwantrao Chavan Academy of Development Administration"
+    }
+  },
+  {
+    "id": 448218376,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.503912,
+    "lon": 73.825199,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 448218377,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.50369,
+    "lon": 73.824648,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 466296543,
+    "type": "way",
+    "category": "schools",
+    "name": "Tree house school",
+    "lat": 18.482561,
+    "lon": 73.815327,
+    "tags": {
+      "amenity": "school",
+      "name": "Tree house school"
+    }
+  },
+  {
+    "id": 480244855,
+    "type": "way",
+    "category": "schools",
+    "name": "Abdul Hamid Urdu School",
+    "lat": 18.54887,
+    "lon": 73.882689,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Laxminagar Yerwada",
+      "amenity": "school",
+      "name": "Abdul Hamid Urdu School"
+    }
+  },
+  {
+    "id": 480247146,
+    "type": "way",
+    "category": "schools",
+    "name": "Genba Sopanrao Moze School",
+    "lat": 18.560335,
+    "lon": 73.897019,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Nagpur Chawl Road, MH Society, Yerwada",
+      "amenity": "school",
+      "name": "Genba Sopanrao Moze School"
+    }
+  },
+  {
+    "id": 618570139,
+    "type": "way",
+    "category": "schools",
+    "name": "Gora Kumbhar Highschool",
+    "lat": 18.537982,
+    "lon": 73.794152,
+    "tags": {
+      "amenity": "school",
+      "name": "Gora Kumbhar Highschool"
+    }
+  },
+  {
+    "id": 641140495,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.556097,
+    "lon": 73.814248,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 666675665,
+    "type": "way",
+    "category": "schools",
+    "name": "Baburao Sanas Kanyashala",
+    "lat": 18.522994,
+    "lon": 73.863596,
+    "tags": {
+      "amenity": "school",
+      "name": "Baburao Sanas Kanyashala"
+    }
+  },
+  {
+    "id": 666675670,
+    "type": "way",
+    "category": "schools",
+    "name": "Gurudev Ravindranath Tagore Vidyaniketan",
+    "lat": 18.525228,
+    "lon": 73.864983,
+    "tags": {
+      "amenity": "school",
+      "name": "Gurudev Ravindranath Tagore Vidyaniketan"
+    }
+  },
+  {
+    "id": 704561327,
+    "type": "way",
+    "category": "schools",
+    "name": "The Orchid School",
+    "lat": 18.563426,
+    "lon": 73.781784,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Mhalunge Road",
+      "amenity": "school",
+      "name": "The Orchid School",
+      "phone": "020 6711 6711",
+      "website": "https://www.theorchidschool.org/"
+    }
+  },
+  {
+    "id": 901916049,
+    "type": "way",
+    "category": "schools",
+    "name": "Phoenix World School",
+    "lat": 18.562231,
+    "lon": 73.955947,
+    "tags": {
+      "amenity": "school",
+      "name": "Phoenix World School"
+    }
+  },
+  {
+    "id": 909292767,
+    "type": "way",
+    "category": "schools",
+    "name": "Bharat English School",
+    "lat": 18.531672,
+    "lon": 73.849045,
+    "tags": {
+      "amenity": "school",
+      "name": "Bharat English School"
+    }
+  },
+  {
+    "id": 963471590,
+    "type": "way",
+    "category": "schools",
+    "name": "Don Bosco high school",
+    "lat": 18.553472,
+    "lon": 73.893928,
+    "tags": {
+      "amenity": "school",
+      "name": "Don Bosco high school"
+    }
+  },
+  {
+    "id": 1030256746,
+    "type": "way",
+    "category": "schools",
+    "name": "Aaruni Vidhya Mandir School (Vidhyapeet School)",
+    "lat": 18.548013,
+    "lon": 73.830081,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "Aaruni Vidhya Mandir School (Vidhyapeet School)"
+    }
+  },
+  {
+    "id": 1030564284,
+    "type": "way",
+    "category": "schools",
+    "name": "Vidya Vinay Niketan",
+    "lat": 18.587122,
+    "lon": 73.783285,
+    "tags": {
+      "amenity": "school",
+      "name": "Vidya Vinay Niketan",
+      "operator": "चोंधे"
+    }
+  },
+  {
+    "id": 1031860555,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.584085,
+    "lon": 73.781932,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1058936457,
+    "type": "way",
+    "category": "schools",
+    "name": "PC primary school",
+    "lat": 18.591967,
+    "lon": 73.762222,
+    "tags": {
+      "amenity": "school",
+      "name": "PC primary school",
+      "operator": "पिंपरी चिंचवड महानगर पालिका"
+    }
+  },
+  {
+    "id": 1084969936,
+    "type": "way",
+    "category": "schools",
+    "name": "कस्पटे वस्ती शाळा",
+    "lat": 18.594507,
+    "lon": 73.773444,
+    "tags": {
+      "amenity": "school",
+      "name": "कस्पटे वस्ती शाळा"
+    }
+  },
+  {
+    "id": 1085938283,
+    "type": "way",
+    "category": "schools",
+    "name": "Euro School",
+    "lat": 18.59893,
+    "lon": 73.769037,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Shri Chatrapati Shivaji Maharaj Road",
+      "amenity": "school",
+      "name": "Euro School"
+    }
+  },
+  {
+    "id": 1086983391,
+    "type": "way",
+    "category": "schools",
+    "name": "Walnut School",
+    "lat": 18.60563,
+    "lon": 73.770525,
+    "tags": {
+      "amenity": "school",
+      "name": "Walnut School"
+    }
+  },
+  {
+    "id": 1092805747,
+    "type": "way",
+    "category": "schools",
+    "name": "Podar International School",
+    "lat": 18.624714,
+    "lon": 73.787207,
+    "tags": {
+      "amenity": "school",
+      "operator": "Podar International School"
+    }
+  },
+  {
+    "id": 1096657641,
+    "type": "way",
+    "category": "schools",
+    "name": "Swami Vivekanand Vidyalay",
+    "lat": 18.510588,
+    "lon": 73.776671,
+    "tags": {
+      "amenity": "school",
+      "name": "Swami Vivekanand Vidyalay"
+    }
+  },
+  {
+    "id": 1105747977,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.490698,
+    "lon": 73.815878,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1117066705,
+    "type": "way",
+    "category": "schools",
+    "name": "Vidya Valley School",
+    "lat": 18.543974,
+    "lon": 73.756383,
+    "tags": {
+      "amenity": "school",
+      "name": "Vidya Valley School",
+      "website": "https://vidyavalley.com"
+    }
+  },
+  {
+    "id": 1122572184,
+    "type": "way",
+    "category": "schools",
+    "name": "pratapgad",
+    "lat": 18.649082,
+    "lon": 73.828443,
+    "tags": {
+      "amenity": "school",
+      "name": "pratapgad",
+      "operator": "Society of Saint Pius X"
+    }
+  },
+  {
+    "id": 1124737330,
+    "type": "way",
+    "category": "schools",
+    "name": "Dhaniraj school",
+    "lat": 18.600397,
+    "lon": 73.772643,
+    "tags": {
+      "amenity": "school",
+      "name": "Dhaniraj school"
+    }
+  },
+  {
+    "id": 1136404815,
+    "type": "way",
+    "category": "schools",
+    "name": "Cambridge school ground",
+    "lat": 18.6491,
+    "lon": 73.782913,
+    "tags": {
+      "addr:city": "akurdi",
+      "addr:street": "Old Pune–Mumbai Highway",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Cambridge school ground",
+      "operator": "school"
+    }
+  },
+  {
+    "id": 1144239558,
+    "type": "way",
+    "category": "schools",
+    "name": "Infant Jesus high school",
+    "lat": 18.603049,
+    "lon": 73.771144,
+    "tags": {
+      "amenity": "school",
+      "name": "Infant Jesus high school"
+    }
+  },
+  {
+    "id": 1144240959,
+    "type": "way",
+    "category": "schools",
+    "name": "Mount Litera School",
+    "lat": 18.599245,
+    "lon": 73.770447,
+    "tags": {
+      "amenity": "school",
+      "name": "Mount Litera School"
+    }
+  },
+  {
+    "id": 1162009042,
+    "type": "way",
+    "category": "schools",
+    "name": "D. Y. Patil Dnyanshanti School",
+    "lat": 18.647597,
+    "lon": 73.75951,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Akurdi, Ravet Road",
+      "amenity": "school",
+      "building": "yes",
+      "name": "D. Y. Patil Dnyanshanti School",
+      "website": "https://dypdss.edu.in/"
+    }
+  },
+  {
+    "id": 1172951517,
+    "type": "way",
+    "category": "schools",
+    "name": "Ryan International School",
+    "lat": 18.512134,
+    "lon": 73.767649,
+    "tags": {
+      "amenity": "school",
+      "name": "Ryan International School"
+    }
+  },
+  {
+    "id": 1197605287,
+    "type": "way",
+    "category": "schools",
+    "name": "Helios International School",
+    "lat": 18.473766,
+    "lon": 73.811724,
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Helios International School"
+    }
+  },
+  {
+    "id": 1231306120,
+    "type": "way",
+    "category": "schools",
+    "name": "Bharti school ground",
+    "lat": 18.455796,
+    "lon": 73.854585,
+    "tags": {
+      "amenity": "school",
+      "name": "Bharti school ground"
+    }
+  },
+  {
+    "id": 1245480881,
+    "type": "way",
+    "category": "schools",
+    "name": "Late Gulabrao Tukaram Wanjale School Ground",
+    "lat": 18.474368,
+    "lon": 73.795613,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "New Ahire Gaon Road",
+      "amenity": "school",
+      "name": "Late Gulabrao Tukaram Wanjale School Ground"
+    }
+  },
+  {
+    "id": 1271173140,
+    "type": "way",
+    "category": "schools",
+    "name": "Nanded City Ground",
+    "lat": 18.461487,
+    "lon": 73.789101,
+    "tags": {
+      "amenity": "school",
+      "name": "Nanded City Ground"
+    }
+  },
+  {
+    "id": 1271897720,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.527189,
+    "lon": 73.955928,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1271971192,
+    "type": "way",
+    "category": "schools",
+    "name": "vision school ground",
+    "lat": 18.445057,
+    "lon": 73.834513,
+    "tags": {
+      "amenity": "school",
+      "name": "vision school ground"
+    }
+  },
+  {
+    "id": 1272484689,
+    "type": "way",
+    "category": "schools",
+    "name": "Orchids The International School Ground",
+    "lat": 18.506154,
+    "lon": 73.962325,
+    "tags": {
+      "addr:city": "Manjari Bk",
+      "amenity": "school",
+      "building": "school",
+      "name": "Orchids The International School Ground"
+    }
+  },
+  {
+    "id": 1272877055,
+    "type": "way",
+    "category": "schools",
+    "name": "All Saints' High School",
+    "lat": 18.558503,
+    "lon": 73.845925,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Old Pune–Mumbai Highway",
+      "amenity": "school",
+      "name": "All Saints' High School"
+    }
+  },
+  {
+    "id": 1276369244,
+    "type": "way",
+    "category": "schools",
+    "name": "Little Flowers English Medium School CBSE",
+    "lat": 18.47769,
+    "lon": 73.949673,
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Little Flowers English Medium School CBSE"
+    }
+  },
+  {
+    "id": 1279597430,
+    "type": "way",
+    "category": "schools",
+    "name": "Suyog Sunderji Wisdom School",
+    "lat": 18.587197,
+    "lon": 73.965353,
+    "tags": {
+      "addr:city": "Wagholi, Pune, Maharashtra",
+      "addr:street": "Lohgaon - Wagholi Road",
+      "amenity": "school",
+      "name": "Suyog Sunderji Wisdom School"
+    }
+  },
+  {
+    "id": 1283234649,
+    "type": "way",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya Range Hill Estate",
+    "lat": 18.553953,
+    "lon": 73.841746,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school",
+      "name": "Kendriya Vidyalaya Range Hill Estate",
+      "operator": "government"
+    }
+  },
+  {
+    "id": 1378475733,
+    "type": "way",
+    "category": "schools",
+    "name": "Shantiniketan School of Unique Learning",
+    "lat": 18.602202,
+    "lon": 73.911834,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Porwal Sathe Wasti Road",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Shantiniketan School of Unique Learning",
+      "operator": "FLY Foundation",
+      "website": "https://shantiniketanschool.com"
+    }
+  },
+  {
+    "id": 1379102902,
+    "type": "way",
+    "category": "schools",
+    "name": "Dr. Kalmadi Shamarao High School",
+    "lat": 18.564985,
+    "lon": 73.784467,
+    "tags": {
+      "amenity": "school",
+      "name": "Dr. Kalmadi Shamarao High School"
+    }
+  },
+  {
+    "id": 1386960250,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.473745,
+    "lon": 73.811636,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1410322284,
+    "type": "way",
+    "category": "schools",
+    "name": "Pune International School",
+    "lat": 18.578017,
+    "lon": 73.89631,
+    "tags": {
+      "amenity": "school",
+      "name": "Pune International School"
+    }
+  },
+  {
+    "id": 1410504206,
+    "type": "way",
+    "category": "schools",
+    "name": "Rosary School",
+    "lat": 18.491778,
+    "lon": 73.788589,
+    "tags": {
+      "amenity": "school",
+      "name": "Rosary School"
+    }
+  },
+  {
+    "id": 1410817599,
+    "type": "way",
+    "category": "schools",
+    "name": "Genba Sopanrao Moze College of Engineering",
+    "lat": 18.574051,
+    "lon": 73.768457,
+    "tags": {
+      "amenity": "school",
+      "name": "Genba Sopanrao Moze College of Engineering"
+    }
+  },
+  {
+    "id": 1411074154,
+    "type": "way",
+    "category": "schools",
+    "name": "Shree Ram Hill View Preschool",
+    "lat": 18.601973,
+    "lon": 73.919045,
+    "tags": {
+      "amenity": "school",
+      "name": "Shree Ram Hill View Preschool"
+    }
+  },
+  {
+    "id": 1432747071,
+    "type": "way",
+    "category": "schools",
+    "name": "MODERN ENGLISH MEDIUM SCHOOL (NCL SCHOOL)",
+    "lat": 18.540544,
+    "lon": 73.815158,
+    "tags": {
+      "amenity": "school",
+      "name": "MODERN ENGLISH MEDIUM SCHOOL (NCL SCHOOL)"
+    }
+  },
+  {
+    "id": 1458952920,
+    "type": "way",
+    "category": "schools",
+    "name": "narayanrao genba moze school ground",
+    "lat": 18.590029,
+    "lon": 73.892535,
+    "tags": {
+      "amenity": "school",
+      "name": "narayanrao genba moze school ground"
+    }
+  },
+  {
+    "id": 1459190962,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.551403,
+    "lon": 73.913469,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1459443713,
+    "type": "way",
+    "category": "schools",
+    "name": "P K International School",
+    "lat": 18.594849,
+    "lon": 73.796922,
+    "tags": {
+      "amenity": "school",
+      "name": "P K International School"
+    }
+  },
+  {
+    "id": 1459987738,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.639528,
+    "lon": 73.845787,
+    "tags": {
+      "addr:city": "pune",
+      "addr:street": "Vaishnao Mata Marg",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1460410123,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed School",
+    "lat": 18.54917,
+    "lon": 73.899967,
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": 1481309682,
+    "type": "way",
+    "category": "schools",
+    "name": "Orchids International School Ground",
+    "lat": 18.627468,
+    "lon": 73.793508,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Yashopuram Road",
+      "amenity": "school",
+      "name": "Orchids International School Ground"
+    }
+  },
+  {
+    "id": 1481316890,
+    "type": "way",
+    "category": "schools",
+    "name": "Orchids International School",
+    "lat": 18.628729,
+    "lon": 73.793904,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Yashopuram Road",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Orchids International School"
+    }
+  }
+]

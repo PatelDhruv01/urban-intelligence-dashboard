@@ -1,0 +1,2699 @@
+[
+  {
+    "id": 763454605,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ishwar Medical",
+    "lat": 18.55388,
+    "lon": 73.805061,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Ishwar Medical"
+    }
+  },
+  {
+    "id": 1011184896,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ishwar Drug House",
+    "lat": 18.543454,
+    "lon": 73.784537,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Ishwar Drug House"
+    }
+  },
+  {
+    "id": 1011184903,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Metro Chemists",
+    "lat": 18.543525,
+    "lon": 73.784312,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Metro Chemists"
+    }
+  },
+  {
+    "id": 1109153498,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Rahul Medicals",
+    "lat": 18.511731,
+    "lon": 73.80889,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Rahul Medicals"
+    }
+  },
+  {
+    "id": 1305056483,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Siddhivinayak Medico",
+    "lat": 18.474597,
+    "lon": 73.813923,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Siddhivinayak Medico"
+    }
+  },
+  {
+    "id": 1534398824,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.516684,
+    "lon": 73.833895,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 1534401106,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo Pharmacy",
+    "lat": 18.517157,
+    "lon": 73.833949,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apollo Pharmacy"
+    }
+  },
+  {
+    "id": 1534446149,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shubham Medical",
+    "lat": 18.513428,
+    "lon": 73.837634,
+    "tags": {
+      "addr:street": "Lane No. 5, Prabhat Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shubham Medical"
+    }
+  },
+  {
+    "id": 1534497419,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.510972,
+    "lon": 73.842591,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 1599558288,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.507668,
+    "lon": 73.806292,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 1672318121,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.461952,
+    "lon": 73.807188,
+    "tags": {
+      "amenity": "pharmacy"
+    }
+  },
+  {
+    "id": 1765302803,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sun Medico",
+    "lat": 18.474733,
+    "lon": 73.813224,
+    "tags": {
+      "addr:street": "Suncity Road",
+      "amenity": "pharmacy",
+      "name": "Sun Medico"
+    }
+  },
+  {
+    "id": 2036734415,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo Pharmacy",
+    "lat": 18.506394,
+    "lon": 73.899074,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Solapur Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apollo Pharmacy",
+      "phone": "+91 20 26861583"
+    }
+  },
+  {
+    "id": 2192111452,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Vasu Medicals",
+    "lat": 18.502253,
+    "lon": 73.804792,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Vasu Medicals"
+    }
+  },
+  {
+    "id": 2784751578,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Neel Medicals",
+    "lat": 18.506259,
+    "lon": 73.817421,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Pu. Bha. Bhave Path",
+      "amenity": "pharmacy",
+      "name": "Neel Medicals",
+      "opening_hours": "10:00-22:00"
+    }
+  },
+  {
+    "id": 2801208408,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Chetan Medicals",
+    "lat": 18.49874,
+    "lon": 73.838913,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Chetan Medicals"
+    }
+  },
+  {
+    "id": 2827466755,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ranveer Medical",
+    "lat": 18.509818,
+    "lon": 73.928194,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Ranveer Medical"
+    }
+  },
+  {
+    "id": 2827467014,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Omkar Clinic & Sonography Center",
+    "lat": 18.509999,
+    "lon": 73.928164,
+    "tags": {
+      "addr:city": "Magarpatta City",
+      "addr:street": "Destination Centre",
+      "amenity": "doctors",
+      "name": "Omkar Clinic & Sonography Center",
+      "website": "http://www.omkarxray.com"
+    }
+  },
+  {
+    "id": 2973211286,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Lotus Paediatrics Clinic",
+    "lat": 18.557679,
+    "lon": 73.793596,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Lotus Paediatrics Clinic",
+      "operator": "Dr. Prachi Deshpande"
+    }
+  },
+  {
+    "id": 2973218481,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr Gupte Hospital",
+    "lat": 18.55762,
+    "lon": 73.793676,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Gopal Hari Deshmukh Marg",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr Gupte Hospital",
+      "opening_hours": "Mo-Sa 08:00-18:00",
+      "operator": "Dr. Gupte Hospital"
+    }
+  },
+  {
+    "id": 3256869300,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.487135,
+    "lon": 73.815004,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 3536142573,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ambika Medicare",
+    "lat": 18.447125,
+    "lon": 73.81053,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "centre",
+      "name": "Ambika Medicare",
+      "phone": "08805351095"
+    }
+  },
+  {
+    "id": 3683338125,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dhareshwar Medical and General Stores",
+    "lat": 18.450717,
+    "lon": 73.811226,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Dhayari Road",
+      "amenity": "pharmacy",
+      "name": "Dhareshwar Medical and General Stores",
+      "opening_hours": "Mo-Su 08:30-22:30",
+      "phone": "02060701937"
+    }
+  },
+  {
+    "id": 3721775728,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Pramukh Medicals",
+    "lat": 18.474111,
+    "lon": 73.82191,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Pramukh Medicals"
+    }
+  },
+  {
+    "id": 3872878835,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shiv Medico",
+    "lat": 18.454524,
+    "lon": 73.81188,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Shiv Medico"
+    }
+  },
+  {
+    "id": 4084800454,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Raj Chemist",
+    "lat": 18.511477,
+    "lon": 73.878215,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Raj Chemist"
+    }
+  },
+  {
+    "id": 4365874199,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "medical",
+    "lat": 18.642812,
+    "lon": 73.76416,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "medical"
+    }
+  },
+  {
+    "id": 4546778691,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.551967,
+    "lon": 73.841663,
+    "tags": {
+      "amenity": "pharmacy"
+    }
+  },
+  {
+    "id": 4666613990,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "KR Homeopharmacy",
+    "lat": 18.508532,
+    "lon": 73.830674,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 4746912622,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Vinayak Medicals",
+    "lat": 18.597263,
+    "lon": 73.908854,
+    "tags": {
+      "addr:street": "Dhanori Road",
+      "amenity": "pharmacy"
+    }
+  },
+  {
+    "id": 5237312522,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.55423,
+    "lon": 73.897098,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor"
+    }
+  },
+  {
+    "id": 5696339269,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Chetan Pharmacy",
+    "lat": 18.546164,
+    "lon": 73.790506,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Chetan Pharmacy"
+    }
+  },
+  {
+    "id": 5713384283,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Nature Medico",
+    "lat": 18.548219,
+    "lon": 73.793479,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Nature Medico",
+      "opening_hours": "Mo-Su 08:00-23:00",
+      "phone": "+91 99214 42230"
+    }
+  },
+  {
+    "id": 5771102651,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Raj Medico",
+    "lat": 18.548187,
+    "lon": 73.79339,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Raj Medico",
+      "phone": "+91 77750 11274"
+    }
+  },
+  {
+    "id": 5796441153,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Tejas Consultants",
+    "lat": 18.492377,
+    "lon": 73.823882,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Tejas Consultants"
+    }
+  },
+  {
+    "id": 5796441171,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Patanjali",
+    "lat": 18.492383,
+    "lon": 73.824786,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Patanjali",
+      "operator": "Om Enterprises"
+    }
+  },
+  {
+    "id": 5803624689,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Godbole Laboratory",
+    "lat": 18.493042,
+    "lon": 73.825149,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Godbole Laboratory",
+      "operator": "Ganga Vishnu Enterprises"
+    }
+  },
+  {
+    "id": 5803625324,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Agraj Health Secrets",
+    "lat": 18.494013,
+    "lon": 73.825408,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Agraj Health Secrets"
+    }
+  },
+  {
+    "id": 5818757666,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Vidya Joshi",
+    "lat": 18.493948,
+    "lon": 73.825386,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Vidya Joshi",
+      "phone": "020 25462152"
+    }
+  },
+  {
+    "id": 5832220037,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Drug House",
+    "lat": 18.505517,
+    "lon": 73.825095,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Drug House"
+    }
+  },
+  {
+    "id": 5832438787,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Vishwas Medico",
+    "lat": 18.504625,
+    "lon": 73.831098,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Vishwas Medico"
+    }
+  },
+  {
+    "id": 5832438800,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Health Care Medical",
+    "lat": 18.518186,
+    "lon": 73.837684,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Health Care Medical"
+    }
+  },
+  {
+    "id": 5832462259,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Mayur Medicals",
+    "lat": 18.505033,
+    "lon": 73.839531,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Mayur Medicals"
+    }
+  },
+  {
+    "id": 5832548497,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Arihant Medicals",
+    "lat": 18.509315,
+    "lon": 73.848122,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Lokmanya Tilak Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Arihant Medicals",
+      "opening_hours": "Mo-Sa 10:00-22:00; Su 10:30-13:30"
+    }
+  },
+  {
+    "id": 6111011971,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Emke Medicals",
+    "lat": 18.541146,
+    "lon": 73.829774,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Emke Medicals"
+    }
+  },
+  {
+    "id": 6111132427,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Prakash Medicals",
+    "lat": 18.560443,
+    "lon": 73.808984,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Prakash Medicals"
+    }
+  },
+  {
+    "id": 6113341877,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shrinath Medicos",
+    "lat": 18.507442,
+    "lon": 73.797454,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shrinath Medicos"
+    }
+  },
+  {
+    "id": 6113604707,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Phoenix Pharmacy",
+    "lat": 18.571937,
+    "lon": 73.78111,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Phoenix Pharmacy"
+    }
+  },
+  {
+    "id": 6130922023,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Medical Stores",
+    "lat": 18.559802,
+    "lon": 73.80302,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Medical Stores"
+    }
+  },
+  {
+    "id": 6131097699,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellness Forever",
+    "lat": 18.560365,
+    "lon": 73.809374,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wellness Forever",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "id": 6135560585,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Admire Chemist",
+    "lat": 18.554729,
+    "lon": 73.80921,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Admire Chemist"
+    }
+  },
+  {
+    "id": 6145441649,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Life Care Medico",
+    "lat": 18.504266,
+    "lon": 73.820812,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Life Care Medico"
+    }
+  },
+  {
+    "id": 6194029385,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shree Gajanan homoeo clinic",
+    "lat": 18.449091,
+    "lon": 73.81108,
+    "tags": {
+      "addr:street": "Lane 30/31",
+      "amenity": "doctors",
+      "opening_hours": "Mo-Th, Sa 20:30-22:00",
+      "phone": "9421723298"
+    }
+  },
+  {
+    "id": 6194950385,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shree Gajanan homoeo clinic",
+    "lat": 18.460211,
+    "lon": 73.78307,
+    "tags": {
+      "addr:street": "Nandedgaon vadjaimata road",
+      "amenity": "doctors",
+      "opening_hours": "Mo-Th, Sa 19:00-20:30",
+      "phone": "9421723298"
+    }
+  },
+  {
+    "id": 6199246412,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Healthspring",
+    "lat": 18.530819,
+    "lon": 73.829831,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Healthspring"
+    }
+  },
+  {
+    "id": 6199355658,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "I-Care Medicals",
+    "lat": 18.562885,
+    "lon": 73.830552,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "I-Care Medicals"
+    }
+  },
+  {
+    "id": 6201856569,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo Pharmacy",
+    "lat": 18.535777,
+    "lon": 73.876245,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apollo Pharmacy"
+    }
+  },
+  {
+    "id": 7047962182,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Ashok Parakh",
+    "lat": 18.487147,
+    "lon": 73.857069,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Ashok Parakh"
+    }
+  },
+  {
+    "id": 7649461723,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. V. V. Kaulgud",
+    "lat": 18.560947,
+    "lon": 73.81251,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. V. V. Kaulgud"
+    }
+  },
+  {
+    "id": 7649461727,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Deepa Karwa",
+    "lat": 18.563239,
+    "lon": 73.806205,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Deepa Karwa"
+    }
+  },
+  {
+    "id": 7649461762,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Mahesh Thombare",
+    "lat": 18.555338,
+    "lon": 73.804544,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Mahesh Thombare"
+    }
+  },
+  {
+    "id": 7649461767,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Sonal Kapoor",
+    "lat": 18.557542,
+    "lon": 73.805264,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Sonal Kapoor"
+    }
+  },
+  {
+    "id": 7649461773,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Shirish Medhekar",
+    "lat": 18.560379,
+    "lon": 73.809502,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Shirish Medhekar"
+    }
+  },
+  {
+    "id": 7649461793,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Uma Alurkar",
+    "lat": 18.555754,
+    "lon": 73.795425,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Uma Alurkar"
+    }
+  },
+  {
+    "id": 7649461795,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Meera Singhal",
+    "lat": 18.558713,
+    "lon": 73.791251,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Meera Singhal"
+    }
+  },
+  {
+    "id": 7649461797,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Shirish Kankariya",
+    "lat": 18.479043,
+    "lon": 73.891014,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Shirish Kankariya"
+    }
+  },
+  {
+    "id": 7649461800,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Sanjay Kolte Clinic",
+    "lat": 18.5602,
+    "lon": 73.8057,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Sanjay Kolte Clinic",
+      "website": "https://drsanjaykolte.in/"
+    }
+  },
+  {
+    "id": 7649461815,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Rajen, Dr. a Kale",
+    "lat": 18.556595,
+    "lon": 73.806938,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Rajen, Dr. a Kale"
+    }
+  },
+  {
+    "id": 7651453313,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Parag Biniwale",
+    "lat": 18.52269,
+    "lon": 73.843977,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Parag Biniwale"
+    }
+  },
+  {
+    "id": 7651453314,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Swaroop Savanur",
+    "lat": 18.511654,
+    "lon": 73.843075,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Swaroop Savanur"
+    }
+  },
+  {
+    "id": 7651453331,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. K M Gangwal",
+    "lat": 18.514028,
+    "lon": 73.85026,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. K M Gangwal"
+    }
+  },
+  {
+    "id": 7651453348,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Chetan Deshmukh",
+    "lat": 18.510396,
+    "lon": 73.84654,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Limaye Wadi Road",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Chetan Deshmukh"
+    }
+  },
+  {
+    "id": 7651453359,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Nitin Abhyankar",
+    "lat": 18.510825,
+    "lon": 73.850646,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Nitin Abhyankar"
+    }
+  },
+  {
+    "id": 7651453362,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Shailesh Puntambekar",
+    "lat": 18.525865,
+    "lon": 73.850995,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Shailesh Puntambekar"
+    }
+  },
+  {
+    "id": 7651453366,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Neelima Beke",
+    "lat": 18.519998,
+    "lon": 73.853084,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Neelima Beke"
+    }
+  },
+  {
+    "id": 7651453373,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Pradeep Divate",
+    "lat": 18.516695,
+    "lon": 73.878229,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Pradeep Divate"
+    }
+  },
+  {
+    "id": 7651453387,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Seema Shaikh",
+    "lat": 18.507553,
+    "lon": 73.876507,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Seema Shaikh"
+    }
+  },
+  {
+    "id": 7651453388,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Shreerang Godbole",
+    "lat": 18.525946,
+    "lon": 73.849329,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Shreerang Godbole"
+    }
+  },
+  {
+    "id": 7651453398,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. NarenDr. a G. Patwardhan",
+    "lat": 18.515839,
+    "lon": 73.841851,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. NarenDr. a G. Patwardhan"
+    }
+  },
+  {
+    "id": 7651453405,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Girish Puranik",
+    "lat": 18.515069,
+    "lon": 73.816824,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Girish Puranik"
+    }
+  },
+  {
+    "id": 7651453414,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Sunil Sathe",
+    "lat": 18.510908,
+    "lon": 73.865991,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Sunil Sathe"
+    }
+  },
+  {
+    "id": 8256715247,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shree Medical",
+    "lat": 18.485459,
+    "lon": 73.851838,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Shree Medical"
+    }
+  },
+  {
+    "id": 8261471097,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sinkar Cardiac Care",
+    "lat": 18.524652,
+    "lon": 73.8425,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Kalpvishwa,Next to ramchandra sabha Mandap(ICICI Bank) Ghole road, Shivajingar",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Sinkar Cardiac Care",
+      "website": "https://www.sinkarcardiaccare.in/Cardioclinic"
+    }
+  },
+  {
+    "id": 8282892119,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shifa medical",
+    "lat": 18.588307,
+    "lon": 73.782236,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shifa medical"
+    }
+  },
+  {
+    "id": 8361120815,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "मेडप्लस",
+    "lat": 18.588317,
+    "lon": 73.781893,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "मेडप्लस",
+      "opening_hours": "08:00-22:30",
+      "phone": "+91 62814 12345"
+    }
+  },
+  {
+    "id": 8361120816,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.588643,
+    "lon": 73.781306,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 8378143820,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.550689,
+    "lon": 73.939308,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 8811347772,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Bartakke Hi Line",
+    "lat": 18.55699,
+    "lon": 73.907776,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dr. Bartakke Hi Line"
+    }
+  },
+  {
+    "id": 9201407912,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Matoshree Medico",
+    "lat": 18.522037,
+    "lon": 73.764732,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Uttamnagar, Bavdhan Budruk",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Matoshree Medico",
+      "opening_hours": "Mo-Sa 11:00-22:00"
+    }
+  },
+  {
+    "id": 9201728770,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apple Chemists",
+    "lat": 18.602908,
+    "lon": 73.909555,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Porwal Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apple Chemists"
+    }
+  },
+  {
+    "id": 9201762984,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Smart Chemist Medical",
+    "lat": 18.607842,
+    "lon": 73.910953,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Porwal Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Smart Chemist Medical"
+    }
+  },
+  {
+    "id": 9203568133,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Metro Chemist",
+    "lat": 18.522375,
+    "lon": 73.76451,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Bavdhan Budruk",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Metro Chemist",
+      "opening_hours": "Mo-Fr 09:00-17:00"
+    }
+  },
+  {
+    "id": 9256642040,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apple medical store",
+    "lat": 18.52199,
+    "lon": 73.765509,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apple medical store"
+    }
+  },
+  {
+    "id": 9278156725,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Rahul Pharma",
+    "lat": 18.510402,
+    "lon": 73.847612,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Rahul Pharma"
+    }
+  },
+  {
+    "id": 9278173501,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Vasudha Medico",
+    "lat": 18.546395,
+    "lon": 73.820367,
+    "tags": {
+      "addr:street": "7/22, Baner Rd, Sakal Nagar, Aundh, Pune, Maharashtra 411007",
+      "amenity": "pharmacy",
+      "name": "Vasudha Medico",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "020 2567 6199"
+    }
+  },
+  {
+    "id": 9576727138,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Jay Bhagwan medical shop",
+    "lat": 18.51998,
+    "lon": 73.767731,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Uttamnagar road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Jay Bhagwan medical shop"
+    }
+  },
+  {
+    "id": 9582160002,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Mataji medicals",
+    "lat": 18.521571,
+    "lon": 73.765756,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Mataji medicals"
+    }
+  },
+  {
+    "id": 9586838802,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Medicare",
+    "lat": 18.520931,
+    "lon": 73.774033,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Medicare"
+    }
+  },
+  {
+    "id": 9594457285,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ganesh medicals",
+    "lat": 18.520179,
+    "lon": 73.778209,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Ganesh medicals"
+    }
+  },
+  {
+    "id": 9594490329,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shree medicals",
+    "lat": 18.520152,
+    "lon": 73.771795,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Shree medicals"
+    }
+  },
+  {
+    "id": 9682780707,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Relax Medico",
+    "lat": 18.511308,
+    "lon": 73.77541,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Relax Medico"
+    }
+  },
+  {
+    "id": 9723909017,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "औषधाचे दुकान",
+    "lat": 18.585331,
+    "lon": 73.781723,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "औषधाचे दुकान"
+    }
+  },
+  {
+    "id": 9864881917,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "मेडिप्लस",
+    "lat": 18.595291,
+    "lon": 73.769299,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "मेडिप्लस"
+    }
+  },
+  {
+    "id": 9864913917,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellness forever",
+    "lat": 18.595558,
+    "lon": 73.768883,
+    "tags": {
+      "addr:street": "K Rambhau Dada Kalate Marg",
+      "amenity": "pharmacy",
+      "name": "Wellness forever",
+      "opening_hours": "24/7",
+      "phone": "+91 20 2986 0041; +91 20 2986 0042"
+    }
+  },
+  {
+    "id": 9924598652,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "अपोलो फार्मसी",
+    "lat": 18.596196,
+    "lon": 73.772089,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "अपोलो फार्मसी",
+      "opening_hours": "07:00-23:00",
+      "operator": "Apollo pharmacy",
+      "phone": "+91 73044 41203"
+    }
+  },
+  {
+    "id": 9924598653,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "साई मेडिको",
+    "lat": 18.595805,
+    "lon": 73.771925,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "साई मेडिको"
+    }
+  },
+  {
+    "id": 9975580508,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Care Cure",
+    "lat": 18.543709,
+    "lon": 73.792641,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Care Cure"
+    }
+  },
+  {
+    "id": 9979606754,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Om Sai medical and surgical",
+    "lat": 18.593006,
+    "lon": 73.773412,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Om Sai medical and surgical",
+      "phone": "+91 90492 79989"
+    }
+  },
+  {
+    "id": 10013273577,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo pharmacy",
+    "lat": 18.588622,
+    "lon": 73.781998,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apollo pharmacy"
+    }
+  },
+  {
+    "id": 10013529049,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "आनंद मेडिकल",
+    "lat": 18.588608,
+    "lon": 73.782104,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "आनंद मेडिकल"
+    }
+  },
+  {
+    "id": 10013536462,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "विशाल मेडिकल",
+    "lat": 18.588641,
+    "lon": 73.781763,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "विशाल मेडिकल",
+      "phone": "+91 90289 12191"
+    }
+  },
+  {
+    "id": 10016369109,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Omkar",
+    "lat": 18.531017,
+    "lon": 73.875682,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "Omkar"
+    }
+  },
+  {
+    "id": 10035430818,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.597504,
+    "lon": 73.774243,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 10123970382,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Krishna medical",
+    "lat": 18.596399,
+    "lon": 73.773804,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Krishna medical",
+      "opening_hours": "08:30-23:00",
+      "phone": "+91 99606 24460"
+    }
+  },
+  {
+    "id": 10248793551,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Aarav Medical",
+    "lat": 18.520623,
+    "lon": 73.778867,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Aarav Medical"
+    }
+  },
+  {
+    "id": 10250082691,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Aundh Pharma",
+    "lat": 18.554582,
+    "lon": 73.804776,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Aundh Pharma"
+    }
+  },
+  {
+    "id": 10250102957,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Noble Plus",
+    "lat": 18.553842,
+    "lon": 73.809319,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Noble Plus"
+    }
+  },
+  {
+    "id": 10304966773,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Manakarnika",
+    "lat": 18.628491,
+    "lon": 73.780235,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Manakarnika"
+    }
+  },
+  {
+    "id": 10549089390,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Generic Aadhar",
+    "lat": 18.642822,
+    "lon": 73.75598,
+    "tags": {
+      "addr:city": "Pimpri-Chinchwad",
+      "addr:street": "Ravet - Walhekarwadi Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Generic Aadhar",
+      "opening_hours": "Mo-Su 10:00-21:00",
+      "operator": "PAHAL AYURVEDA"
+    }
+  },
+  {
+    "id": 10565288809,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Helpline Medicare",
+    "lat": 18.553308,
+    "lon": 73.936556,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Helpline Medicare"
+    }
+  },
+  {
+    "id": 10567167410,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Planet Chemist",
+    "lat": 18.569717,
+    "lon": 73.910899,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Planet Chemist"
+    }
+  },
+  {
+    "id": 10575833421,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Darshan Medical",
+    "lat": 18.621654,
+    "lon": 73.783438,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Darshan Medical"
+    }
+  },
+  {
+    "id": 10575864765,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Gulzar Medico",
+    "lat": 18.621667,
+    "lon": 73.783321,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Gulzar Medico"
+    }
+  },
+  {
+    "id": 10589805978,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Anmol Medical Stores",
+    "lat": 18.62171,
+    "lon": 73.783135,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Anmol Medical Stores"
+    }
+  },
+  {
+    "id": 10593794486,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Care Medico",
+    "lat": 18.464626,
+    "lon": 73.890748,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Care Medico"
+    }
+  },
+  {
+    "id": 10596049057,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Health Care Medico",
+    "lat": 18.468636,
+    "lon": 73.88912,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Health Care Medico"
+    }
+  },
+  {
+    "id": 10603809536,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Well Care Chemist",
+    "lat": 18.604988,
+    "lon": 73.771936,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Shri Chatrapati Shivaji Maharaj Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Well Care Chemist",
+      "opening_hours": "Mo-Su 09:00-21:00"
+    }
+  },
+  {
+    "id": 10679643672,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellness healthcare",
+    "lat": 18.600354,
+    "lon": 73.763653,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wellness healthcare"
+    }
+  },
+  {
+    "id": 10687748754,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Siddhivinayak Skin Hair & Cosmetology Clinic",
+    "lat": 18.471133,
+    "lon": 73.864052,
+    "tags": {
+      "addr:city": "Bibvewadi, Pune,Maharashtra, India",
+      "addr:street": "Shelar Road",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Siddhivinayak Skin Hair & Cosmetology Clinic"
+    }
+  },
+  {
+    "id": 10799599105,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Janata Drug House",
+    "lat": 18.545085,
+    "lon": 73.779597,
+    "tags": {
+      "addr:street": "Pashan-Sus Road",
+      "amenity": "pharmacy",
+      "phone": "+91 7666266582"
+    }
+  },
+  {
+    "id": 10799637705,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Hindustan Drug House",
+    "lat": 18.544753,
+    "lon": 73.780603,
+    "tags": {
+      "addr:street": "Pashan-Sus Road",
+      "amenity": "pharmacy"
+    }
+  },
+  {
+    "id": 11007330354,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.53137,
+    "lon": 73.830243,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 11021400549,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "K K medical",
+    "lat": 18.613144,
+    "lon": 73.788166,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "K K medical"
+    }
+  },
+  {
+    "id": 11065531170,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ganesh medical",
+    "lat": 18.59573,
+    "lon": 73.771662,
+    "tags": {
+      "addr:street": "Rambhau Kalate path",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ganesh medical",
+      "phone": "+91 74107 16699"
+    }
+  },
+  {
+    "id": 11088744071,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Radiovision Diagnostics",
+    "lat": 18.560602,
+    "lon": 73.80376,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Radiovision Diagnostics",
+      "opening_hours": "Mo-Su 09:00-23:00"
+    }
+  },
+  {
+    "id": 11088744073,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo Pharmacy",
+    "lat": 18.560209,
+    "lon": 73.804741,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apollo Pharmacy"
+    }
+  },
+  {
+    "id": 11097417941,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Anand Medico",
+    "lat": 18.560911,
+    "lon": 73.804586,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Park Avenue Lane",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Anand Medico",
+      "opening_hours": "Mo-Su 09:00-22:00"
+    }
+  },
+  {
+    "id": 11097417942,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Kothari Endoscopy Center",
+    "lat": 18.561357,
+    "lon": 73.804555,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Park Avenue Lane",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Kothari Endoscopy Center"
+    }
+  },
+  {
+    "id": 11097589651,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Abhijeet Sable Eye Hospital",
+    "lat": 18.560801,
+    "lon": 73.81091,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Sanghvi Kesari Road",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Abhijeet Sable Eye Hospital",
+      "opening_hours": "Mo-Su 10:00-21:00",
+      "website": "https://www.punenetralaya.com"
+    }
+  },
+  {
+    "id": 11111744725,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Metro Chemist and Fresh Mart",
+    "lat": 18.558078,
+    "lon": 73.792412,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Metro Chemist and Fresh Mart",
+      "opening_hours": "Mo-Su 10:00-21:00"
+    }
+  },
+  {
+    "id": 11111744732,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.557882,
+    "lon": 73.793312,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 11179782603,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wakad dispensary",
+    "lat": 18.593367,
+    "lon": 73.759494,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wakad dispensary"
+    }
+  },
+  {
+    "id": 11202104365,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Anuj Chemist",
+    "lat": 18.510444,
+    "lon": 73.795153,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Anuj Chemist",
+      "phone": "+91 985 017 3325"
+    }
+  },
+  {
+    "id": 11245293888,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Prince Medico",
+    "lat": 18.563882,
+    "lon": 73.774985,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Prince Medico"
+    }
+  },
+  {
+    "id": 11252368165,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Drushti Medical",
+    "lat": 18.599933,
+    "lon": 73.76359,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Drushti Medical"
+    }
+  },
+  {
+    "id": 11507930596,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.587426,
+    "lon": 73.823248,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Sharan Residency, 60 feet Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 11508100532,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellness Forever",
+    "lat": 18.648231,
+    "lon": 73.751075,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wellness Forever"
+    }
+  },
+  {
+    "id": 11508283158,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Poona Medico",
+    "lat": 18.46827,
+    "lon": 73.785516,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "NDA Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Poona Medico",
+      "opening_hours": "Mo-Su 09:00-21:00"
+    }
+  },
+  {
+    "id": 11530751354,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shaurya Clinic",
+    "lat": 18.596412,
+    "lon": 73.773779,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Shaurya Clinic",
+      "phone": "+91 99703 17439"
+    }
+  },
+  {
+    "id": 11534753119,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Total Spine",
+    "lat": 18.59467,
+    "lon": 73.768678,
+    "tags": {
+      "addr:street": "Mont vert Tropez road",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Total Spine",
+      "opening_hours": "Mo-Sa 10:30-12:00,18:30-20:30; Su off",
+      "operator": "Dr Pallav Bhatia",
+      "phone": "+91 97111 85045; +91 85548 55410; +91 89993 32758",
+      "website": "https://totalspinesolutions.com"
+    }
+  },
+  {
+    "id": 11539934353,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "DiagnoPein",
+    "lat": 18.560627,
+    "lon": 73.805826,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "DiagnoPein",
+      "opening_hours": "Mo-Su 09:00-20:00",
+      "website": "https://www.diagnopein.com"
+    }
+  },
+  {
+    "id": 11539934876,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sparsh Clinic",
+    "lat": 18.560201,
+    "lon": 73.80548,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Sparsh Clinic",
+      "phone": "+91 20 2588 3132",
+      "website": "https://sparshskindoctor.com"
+    }
+  },
+  {
+    "id": 11539934879,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Bhanu Medical & Surgical",
+    "lat": 18.560341,
+    "lon": 73.807192,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ramchandra Gayakwad Path",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Bhanu Medical & Surgical"
+    }
+  },
+  {
+    "id": 11546228218,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Metro Medico",
+    "lat": 18.560269,
+    "lon": 73.802985,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "New DP Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Metro Medico"
+    }
+  },
+  {
+    "id": 11546228224,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Amit Medico and General Stores",
+    "lat": 18.560826,
+    "lon": 73.802898,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "New DP Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Amit Medico and General Stores"
+    }
+  },
+  {
+    "id": 11546228243,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Jaydeep Medico",
+    "lat": 18.564297,
+    "lon": 73.802424,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "New DP Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Jaydeep Medico"
+    }
+  },
+  {
+    "id": 11546228253,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sanjeevani Vitalife Medipoint Clinic",
+    "lat": 18.564896,
+    "lon": 73.802286,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "New DP Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "opening_hours": "24/7",
+      "operator": "Sanjeevani Vitalife Medipoint Clinic"
+    }
+  },
+  {
+    "id": 11561312661,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellness Forever",
+    "lat": 18.56556,
+    "lon": 73.806352,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Nagras Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wellness Forever",
+      "opening_hours": "24/7",
+      "website": "https://www.wellnessforever.com"
+    }
+  },
+  {
+    "id": 11621623603,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Daksh Pathology",
+    "lat": 18.509574,
+    "lon": 73.795004,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Daksh Pathology"
+    }
+  },
+  {
+    "id": 11709999512,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Swasthya Clinic",
+    "lat": 18.593878,
+    "lon": 73.793846,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Swasthya Clinic"
+    }
+  },
+  {
+    "id": 11709999513,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Healthcare",
+    "lat": 18.593814,
+    "lon": 73.793877,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Healthcare"
+    }
+  },
+  {
+    "id": 11743269232,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shradha Medical",
+    "lat": 18.451648,
+    "lon": 73.811089,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shradha Medical"
+    }
+  },
+  {
+    "id": 11758212104,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Laxmi Medical",
+    "lat": 18.614598,
+    "lon": 73.775337,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Laxmi Medical"
+    }
+  },
+  {
+    "id": 11786157048,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "The Health Care Medico",
+    "lat": 18.507975,
+    "lon": 73.792955,
+    "tags": {
+      "amenity": "pharmacy",
+      "name": "The Health Care Medico"
+    }
+  },
+  {
+    "id": 11811998581,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.579211,
+    "lon": 73.972715,
+    "tags": {
+      "addr:city": "Wagholi",
+      "addr:street": "Nagar Road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 11824961381,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Welness 24",
+    "lat": 18.52205,
+    "lon": 73.764696,
+    "tags": {
+      "addr:street": "Uttamnagar road",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Welness 24"
+    }
+  },
+  {
+    "id": 11991266936,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed Pharmacie",
+    "lat": 18.553992,
+    "lon": 73.943055,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy"
+    }
+  },
+  {
+    "id": 12040210202,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "R K Medical Store",
+    "lat": 18.559186,
+    "lon": 73.779255,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "R K Medical Store"
+    }
+  },
+  {
+    "id": 12117945049,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shree Ram Medical Stores",
+    "lat": 18.563928,
+    "lon": 73.830595,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shree Ram Medical Stores"
+    }
+  },
+  {
+    "id": 12120610453,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Guru Krupa Medico",
+    "lat": 18.562786,
+    "lon": 73.830651,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Guru Krupa Medico"
+    }
+  },
+  {
+    "id": 12202911357,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "HealthArk Pathology Lab",
+    "lat": 18.486126,
+    "lon": 73.898663,
+    "tags": {
+      "addr:city": "Pune",
+      "addr:street": "Ashwini Palace, Babusaheb Kedari Marg, Next to Kedari Petrol Pump",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "HealthArk Pathology Lab",
+      "opening_hours": "Mo-Su 09:00-21:00",
+      "operator": "Search Hawk Pvt Ltd",
+      "website": "www.healtharkindia.com"
+    }
+  },
+  {
+    "id": 12299355191,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dhanwantari Medical",
+    "lat": 18.559283,
+    "lon": 73.931233,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Dhanwantari Medical"
+    }
+  },
+  {
+    "id": 12299355192,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ashapura Medical",
+    "lat": 18.559332,
+    "lon": 73.931191,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ashapura Medical"
+    }
+  },
+  {
+    "id": 12299366927,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shourya Medical",
+    "lat": 18.558544,
+    "lon": 73.931548,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shourya Medical"
+    }
+  },
+  {
+    "id": 12473131484,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Asian Eye Hospital",
+    "lat": 18.531573,
+    "lon": 73.875831,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Asian Eye Hospital",
+      "operator": "डॉ. कांकरिया",
+      "phone": "+91 88889 42222; +91 91758 96408; +91 20 2616 2424"
+    }
+  },
+  {
+    "id": 12590123954,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Rajveer medical",
+    "lat": 18.610905,
+    "lon": 73.769215,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Rajveer medical"
+    }
+  },
+  {
+    "id": 12770261293,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "National Pharmacy",
+    "lat": 18.570382,
+    "lon": 73.781247,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "National Pharmacy"
+    }
+  },
+  {
+    "id": 12806062619,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Neuberg Star Imaging and Labs",
+    "lat": 18.554511,
+    "lon": 73.798452,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Neuberg Star Imaging and Labs"
+    }
+  },
+  {
+    "id": 12860661600,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Aaiji Medico",
+    "lat": 18.568057,
+    "lon": 73.782003,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Aaiji Medico"
+    }
+  },
+  {
+    "id": 12863148745,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellness Medical",
+    "lat": 18.569493,
+    "lon": 73.781318,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wellness Medical"
+    }
+  },
+  {
+    "id": 12942430198,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 18.597965,
+    "lon": 73.762668,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "MedPlus"
+    }
+  },
+  {
+    "id": 13314575796,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shiv Generic Medicine Store",
+    "lat": 18.47428,
+    "lon": 73.854543,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "pharmacy",
+      "name": "Shiv Generic Medicine Store",
+      "phone": "+91 77588 96697"
+    }
+  },
+  {
+    "id": 13314575798,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wagheshwar Medical & General Stores",
+    "lat": 18.474272,
+    "lon": 73.854346,
+    "tags": {
+      "addr:city": "Pune",
+      "amenity": "pharmacy",
+      "name": "Wagheshwar Medical & General Stores"
+    }
+  },
+  {
+    "id": 13321301950,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Wellcare Chemist",
+    "lat": 18.55949,
+    "lon": 73.949591,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Wellcare Chemist",
+      "phone": "9145455657"
+    }
+  },
+  {
+    "id": 13418325165,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Baner Pharma",
+    "lat": 18.5654,
+    "lon": 73.773292,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Baner Pharma"
+    }
+  },
+  {
+    "id": 13418325166,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Traya Hairloss Solutions",
+    "lat": 18.565414,
+    "lon": 73.773237,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Traya Hairloss Solutions"
+    }
+  },
+  {
+    "id": 13461268160,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Shree Sagar",
+    "lat": 18.564422,
+    "lon": 73.775083,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Shree Sagar"
+    }
+  },
+  {
+    "id": 13461268166,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "The Gastro Clinic",
+    "lat": 18.564479,
+    "lon": 73.774792,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "The Gastro Clinic",
+      "opening_hours": "Mo-Sa 18:00-21:00; Su 09:00-11:00",
+      "operator": "Dr. Gajanan Wagholikar",
+      "phone": "+91 88888 00470"
+    }
+  },
+  {
+    "id": 13461268167,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Strongbones Orthopaedic Clinic",
+    "lat": 18.564452,
+    "lon": 73.774899,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Strongbones Orthopaedic Clinic",
+      "opening_hours": "Mo-Sa 18:00-20:00",
+      "operator": "Dr. Ashish S. Ranade"
+    }
+  },
+  {
+    "id": 13461268168,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Opal Histopathology Center",
+    "lat": 18.564442,
+    "lon": 73.774845,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Opal Histopathology Center",
+      "operator": "Dr. S. Shrividya",
+      "phone": "+91 77570 73688;+91 96230 09290",
+      "website": "http://histoquest.in/"
+    }
+  },
+  {
+    "id": 13583153863,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Kalash Medical and Stores",
+    "lat": 18.556169,
+    "lon": 73.794452,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Kalash Medical and Stores"
+    }
+  },
+  {
+    "id": 13598173682,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Davaindia Generic Pharmacy",
+    "lat": 18.559599,
+    "lon": 73.790162,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Davaindia Generic Pharmacy"
+    }
+  },
+  {
+    "id": 13598173705,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Cardio Vision Heart Clinic",
+    "lat": 18.558186,
+    "lon": 73.792137,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Cardio Vision Heart Clinic"
+    }
+  },
+  {
+    "id": 13598461934,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ruby Hall Clinic",
+    "lat": 18.528702,
+    "lon": 73.875082,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Ruby Hall Clinic"
+    }
+  },
+  {
+    "id": 13598461953,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apple Chemist",
+    "lat": 18.527545,
+    "lon": 73.8762,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Apple Chemist"
+    }
+  },
+  {
+    "id": 13601971329,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Pooja Medical & General Stores",
+    "lat": 18.57133,
+    "lon": 73.781119,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Pooja Medical & General Stores"
+    }
+  },
+  {
+    "id": 13620265852,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Morya Generic Medical",
+    "lat": 18.482308,
+    "lon": 73.797496,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Morya Generic Medical",
+      "phone": "+91 77967 33030"
+    }
+  },
+  {
+    "id": 13620265854,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Uniti Medical",
+    "lat": 18.481594,
+    "lon": 73.798591,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Uniti Medical"
+    }
+  },
+  {
+    "id": 13620265855,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Mamta Medical",
+    "lat": 18.482348,
+    "lon": 73.797441,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Mamta Medical"
+    }
+  },
+  {
+    "id": 13620265858,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Tremurti Medical",
+    "lat": 18.482321,
+    "lon": 73.797476,
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Tremurti Medical"
+    }
+  }
+]
