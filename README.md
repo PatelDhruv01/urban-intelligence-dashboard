@@ -1,101 +1,169 @@
-# 🏙️ Urban Intelligence Dashboard — Pune
+<div align="center">
 
-> An interactive web application for analysing urban infrastructure density, distribution, and coverage gaps across Pune city using real OpenStreetMap data.
+# 🏙️ Urban Intelligence Dashboard
 
-Built as part of the **Coriolis Technologies Internship Evaluation — Summer 2025**
+### AI-Powered Infrastructure Analysis for Bangalore City
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Leaflet](https://img.shields.io/badge/Leaflet-1.9.4-199900?style=flat-square&logo=leaflet&logoColor=white)](https://leafletjs.com)
+[![Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com)
+[![Vercel](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com)
+[![OpenStreetMap](https://img.shields.io/badge/Data-OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)](https://openstreetmap.org)
+
+<br/>
+
+**An interactive full-stack web application that visualises urban infrastructure density, detects underserved areas, and generates AI-powered planning recommendations for Bangalore using real OpenStreetMap data.**
+
+<br/>
+
+🌐 **[Live Demo](https://urban-intelligence-dashboard-seven.vercel.app/)** &nbsp;|&nbsp; 📡 **[API Docs](https://urban-intelligence-dashboard.onrender.com/docs)** &nbsp;|&nbsp; 📊 **[API Health](https://urban-intelligence-dashboard.onrender.com/api/v1/health)**
+
+<br/>
+
+![Dashboard Preview](frontend/assets/screenshots/map.png)
+
+</div>
 
 ---
 
 ## 📌 Problem Statement
 
-Cities often lack visibility into how infrastructure is distributed across different neighbourhoods. This dashboard addresses the question:
+City infrastructure data is fragmented and difficult to interpret at scale. Planners and analysts lack unified tools to understand how hospitals, schools, and pharmacies are distributed across different neighbourhoods — or more critically, where they are **absent**.
 
-> **"Which areas in Pune lack sufficient access to hospitals, schools, and pharmacies?"**
+This dashboard addresses a core urban planning question:
 
-By collecting, processing, and visualising real infrastructure data, the dashboard enables planners and analysts to identify underserved zones and understand city-wide infrastructure density at a glance.
+> **"Which areas in Bangalore lack sufficient access to hospitals, schools, and pharmacies — and where should new facilities be built?"**
+
+By collecting, processing, and visualising 233,000+ real infrastructure data points, the dashboard enables planners to identify underserved zones, analyse density patterns, and receive AI-generated facility placement recommendations — all in one place.
 
 ---
 
-## 🗂️ Project Architecture
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🗺️ **Interactive Map** | Leaflet map with 5 toggleable infrastructure layers across Bangalore |
+| 📊 **Analytics Dashboard** | 4 live charts — hospital density, school distribution, comparison, gap breakdown |
+| ⚡ **Dynamic Gap Query** | Select any facility + custom radius to instantly highlight underserved zones |
+| 🤖 **AI Suggestions** | Google Gemini analyses infrastructure deserts and recommends optimal facility placement |
+| 📍 **Show on Map** | AI suggestions link directly to map — flies to the recommended location |
+| 🧮 **Smart Impact Score** | AI rates each suggestion 0–10 by estimated population served vs. implementation cost |
+| 🔌 **REST API** | Fully versioned FastAPI backend with interactive Swagger documentation |
+| 🌐 **Fully Deployed** | Live on Vercel (frontend) + Render (backend) — no local setup required for evaluators |
+
+---
+
+## 🏗️ Project Architecture
 
 ```
 urban-intelligence-dashboard/
 │
 ├── backend/
 │   ├── data_collection/
-│   │   └── fetch_osm_data.py        # Collects data from OpenStreetMap Overpass API
+│   │   └── fetch_osm_data.py       # Pulls data from OpenStreetMap Overpass API
+│   │                               # Smart retry + resume logic, 5 categories
+│   │
 │   ├── data_processing/
-│   │   └── process_data.py          # Cleans, grids, computes density & detects gaps
+│   │   └── process_data.py         # Cleans, grids city, computes density
+│   │                               # Haversine-based underserved detection
+│   │
 │   ├── data/
-│   │   ├── pune_hospitals.json      # Raw collected data (gitignored)
-│   │   ├── pune_schools.json
-│   │   ├── pune_traffic_nodes.json
-│   │   ├── pune_buildings.json
-│   │   ├── pune_pharmacies.json
-│   │   └── processed/               # Cleaned + analysed outputs (gitignored)
-│   ├── app.py                       # Flask REST API — 7 endpoints
-│   └── requirements.txt
+│   │   ├── blr_hospitals.json      # Raw OSM data (gitignored, regeneratable)
+│   │   ├── blr_schools.json
+│   │   ├── blr_traffic_nodes.json
+│   │   ├── blr_buildings.json
+│   │   ├── blr_pharmacies.json
+│   │   └── processed/              # Cleaned + analysed outputs (gitignored)
+│   │       ├── hospitals_clean.json
+│   │       ├── schools_clean.json
+│   │       ├── traffic_nodes_clean.json
+│   │       ├── buildings_clean.json
+│   │       ├── pharmacies_clean.json
+│   │       ├── grid_analysis.json
+│   │       ├── underserved_areas.json
+│   │       └── city_stats.json
+│   │
+│   ├── app.py                      # FastAPI — 8 versioned REST endpoints
+│   ├── requirements.txt
+│   └── .env.example
 │
-└── frontend/
-    ├── index.html                   # HTML structure
-    ├── css/
-    │   └── styles.css               # All styling and design tokens
-    ├── js/
-    │   ├── config.js                # API URL, colours, constants
-    │   ├── map.js                   # Leaflet map, layers, markers, popups
-    │   ├── sidebar.js               # KPI cards, view switching
-    │   ├── query.js                 # Underserved area query feature
-    │   ├── charts.js                # All Chart.js chart definitions
-    │   └── app.js                   # Boot orchestrator
-    └── assets/
-        └── screenshots/
+├── frontend/
+│   ├── index.html                  # Clean HTML structure (3 tab views)
+│   ├── css/
+│   │   └── styles.css              # All styling + CSS design tokens
+│   ├── js/
+│   │   ├── config.js               # API URL, colours, city bounds, app state
+│   │   ├── map.js                  # Leaflet map, layers, markers, popups
+│   │   ├── sidebar.js              # KPI cards, coverage metrics, view switching
+│   │   ├── query.js                # Dynamic underserved area query
+│   │   ├── charts.js               # All Chart.js chart definitions
+│   │   ├── ai.js                   # AI Suggestions tab + Gemini integration
+│   │   └── app.js                  # Boot orchestrator, apiFetch utility
+│   └── assets/
+│       └── screenshots/
+│
+├── render.yaml                     # Render deployment config (backend)
+├── vercel.json                     # Vercel deployment config (frontend)
+├── .gitignore
+└── README.md
 ```
 
 ---
 
-## 📊 Data Sources
+## 📊 Dataset Summary — Bangalore
 
-| Source | What we used |
-|--------|-------------|
-| [OpenStreetMap](https://www.openstreetmap.org/) | Base map tiles |
-| [Overpass API](https://overpass-api.de/) | Hospitals, schools, traffic signals, buildings, pharmacies |
-| [Open Government Data Platform India](https://data.gov.in/) | Reference for administrative boundaries |
+| Category | Records | Source |
+|----------|--------:|--------|
+| Hospitals & Clinics | ~1,200+ | OpenStreetMap |
+| Schools & Colleges | ~900+ | OpenStreetMap |
+| Traffic Nodes | ~2,000+ | OpenStreetMap |
+| Buildings | ~250,000+ | OpenStreetMap |
+| Pharmacies | ~500+ | OpenStreetMap |
+| **Total** | **~254,000+** | |
 
-All data is fetched programmatically — no manual downloads required. Running `fetch_osm_data.py` rebuilds the entire dataset from scratch.
-
----
-
-## 🔢 Dataset Summary (Pune)
-
-| Category | Records |
-|----------|--------:|
-| Hospitals & Clinics | 1,064 |
-| Schools & Colleges | 375 |
-| Traffic Nodes | 1,060 |
-| Buildings | 230,583 |
-| Pharmacies | 200 |
-| **Total** | **233,282** |
+> Data is fetched live from the Overpass API. Run `fetch_osm_data.py` to regenerate the full dataset at any time.
 
 ---
 
-## 🧠 Key Analysis Results
+## 🧠 Analysis Methodology
 
-The city is divided into a **25×25 grid** (~1.1 km × 1.1 km per cell). For each cell we compute:
+The city is divided into a **25×25 grid** (~1.2 km × 1.2 km per cell). For each cell, the pipeline computes:
 
-- Infrastructure count and density score per category
-- Distance to nearest hospital, school, and pharmacy
-- An **underservice score** (weighted gap metric)
+- Raw infrastructure count per category
+- Normalised density score (0–100) relative to the densest cell
+- **Haversine distance** to nearest hospital, school, and pharmacy
+- **Underservice score** — weighted gap metric:
+  ```
+  score = (dist_hospital / 3.0km × 0.5) +
+          (dist_school   / 2.0km × 0.3) +
+          (dist_pharmacy / 1.5km × 0.2)
+  ```
 
-| Metric | Result |
-|--------|--------|
-| Grid cells with no hospital within 3km | 33 |
-| Grid cells with no school within 2km | 97 |
-| Grid cells with no pharmacy within 1.5km | 296 |
-| **Total underserved cells (any gap)** | **301 (48.2% of city grid)** |
+### Coverage Thresholds
+
+| Facility | Threshold | Rationale |
+|----------|-----------|-----------|
+| Hospital | 3 km | WHO urban healthcare access standard |
+| School | 2 km | Walkable distance for students |
+| Pharmacy | 1.5 km | Essential daily access |
 
 ---
 
-## 🚀 Setup & Installation
+## 🌐 Live Deployment
+
+| Layer | Platform | URL |
+|-------|----------|-----|
+| 🖥️ Frontend | Vercel | https://urban-intelligence-dashboard-seven.vercel.app/ |
+| ⚙️ Backend API | Render | https://urban-intelligence-dashboard.onrender.com |
+| 📖 API Docs | Render (Swagger) | https://urban-intelligence-dashboard.onrender.com/docs |
+
+> ⚠️ **Note on Render free tier:** The backend spins down after 15 minutes of inactivity. The first request after sleep may take 30–50 seconds to respond. Subsequent requests are instant.
+
+---
+
+## 🚀 Local Setup & Installation
 
 ### Prerequisites
 - Python 3.9+
@@ -124,30 +192,39 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### 4. Collect data from OpenStreetMap
+### 4. Configure environment variables
+```bash
+cp .env.example .env
+# Edit .env and add your Gemini API key:
+# GEMINI_API_KEY=your_key_here
+```
+> Get a **free** Gemini API key at [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+
+### 5. Collect data from OpenStreetMap
 ```bash
 cd data_collection
 python fetch_osm_data.py
 ```
-This fetches ~233k records from the Overpass API. Takes 3–5 minutes.
-The script is **resumable** — if interrupted, re-running it skips already-fetched categories.
+Fetches ~254k records across 5 categories. Takes 5–10 minutes.
+The script is **resumable** — if interrupted, re-running it skips already-fetched categories and only retries failures.
 
-### 5. Process the data
+### 6. Process the data
 ```bash
 cd ../data_processing
 python process_data.py
 ```
-Cleans, grids, computes density, and detects underserved areas. Outputs to `backend/data/processed/`.
+Cleans data, builds the 25×25 grid, computes density metrics, and detects underserved areas. Outputs to `backend/data/processed/`.
 
-### 6. Start the backend API
+### 7. Start the backend
 ```bash
 cd ..
-python app.py
+uvicorn app:app --reload --port 8000
 ```
-API is now running at `http://localhost:5000`
+- API running at: `http://localhost:8000`
+- Interactive API docs: `http://localhost:8000/docs`
 
-### 7. Serve the frontend
-Open a new terminal in the project root:
+### 8. Serve the frontend
+Open a **new terminal** from the project root:
 ```bash
 cd frontend
 python -m http.server 3000
@@ -158,93 +235,143 @@ Open **`http://localhost:3000`** in your browser.
 
 ## 🔌 API Reference
 
-Base URL: `http://localhost:5000/api`
+**Base URL:** `https://urban-intelligence-dashboard.onrender.com/api/v1`
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `GET` | `/health` | Backend health check + data file status |
-| `GET` | `/city/stats` | City-level summary statistics |
-| `GET` | `/infrastructure/<category>` | Point data for hospitals / schools / traffic_nodes / buildings / pharmacies |
+| `GET` | `/health` | Health check + data file status |
+| `GET` | `/city/stats` | City-level KPI summary |
+| `GET` | `/infrastructure/{category}` | Point data — supports `?bbox=` viewport filtering |
 | `GET` | `/grid` | Full 25×25 grid with density scores |
-| `GET` | `/underserved?type=hospital` | Underserved cells filtered by facility type |
-| `GET` | `/query/underserved?facility=hospital&radius_km=3` | **Bonus feature** — dynamic gap query |
-| `GET` | `/summary/by-area?category=hospitals&top_n=15` | Infrastructure count per area for charts |
+| `GET` | `/analysis/underserved` | Pre-computed underserved cells by facility type |
+| `GET` | `/analysis/query` | **Dynamic gap query** — custom facility + radius |
+| `GET` | `/analytics/summary` | Infrastructure counts per area (for charts) |
+| `POST` | `/ai/suggestions` | **AI planning suggestions via Gemini** |
 
-### Example — Find areas lacking hospitals within 3km
-```
-GET /api/query/underserved?facility=hospital&radius_km=3
+### Example — Dynamic underserved query
+```http
+GET /api/v1/analysis/query?facility=hospital&radius_km=3
 ```
 ```json
 {
   "query": "Areas lacking hospital within 3.0 km",
   "facility": "hospital",
   "radius_km": 3.0,
-  "total_underserved_cells": 33,
-  "results": [...]
+  "total_underserved_cells": 41,
+  "results": [
+    {
+      "cell_id": "03_04",
+      "center_lat": 12.8713,
+      "center_lon": 77.4961,
+      "nearest_hospital_km": 5.82,
+      "gap_km": 2.82
+    }
+  ]
+}
+```
+
+### Example — AI suggestions
+```http
+POST /api/v1/ai/suggestions
+Content-Type: application/json
+
+{ "facility_type": "hospital", "top_n": 5 }
+```
+```json
+{
+  "facility_type": "hospital",
+  "city": "Bangalore",
+  "total_underserved_cells": 41,
+  "model": "gemini-1.5-flash",
+  "suggestions": [
+    {
+      "rank": 1,
+      "area_name": "Anekal-Chandapura Corridor",
+      "coordinates": { "lat": 12.8634, "lon": 77.7012 },
+      "priority": "Critical",
+      "recommendation": "200-bed district hospital with 24/7 emergency",
+      "reasoning": "...",
+      "estimated_population_served": "80,000 - 1,20,000 residents",
+      "smart_impact_score": 8.7,
+      "quick_wins": ["Mobile health clinic", "Telemedicine kiosk"]
+    }
+  ]
 }
 ```
 
 ---
 
-## 🖥️ Dashboard Features
-
-### 🗺️ Map Explorer
-- Interactive Leaflet map centred on Pune
-- 5 toggleable infrastructure layers (hospitals, schools, traffic, pharmacies, underserved zones)
-- Click any marker for a popup with name, address, phone, and opening hours
-- Underserved zones rendered as semi-transparent red grid overlays
-
-### 📊 Analytics Tab
-- 4 animated KPI cards with city-wide counts
-- 3 insight cards showing specific infrastructure gap numbers
-- Hospital density bar chart (top 15 grid cells)
-- School distribution bar chart (top 15 grid cells)
-- Infrastructure comparison (horizontal bar)
-- Underserved breakdown by facility type (doughnut chart)
-
-### ⚡ Underserved Area Query (Bonus Feature)
-- Select any facility type (hospital / school / pharmacy)
-- Set a custom radius in km
-- Dashboard instantly redraws the map showing only areas beyond that threshold
-- Each zone popup shows the nearest facility distance and the gap
-
----
-
-## 👥 Division of Work
-
-| Student | Responsibilities |
-|---------|-----------------|
-| **Dhruv** | Data collection pipeline, data processing & analysis, Flask backend API, underserved detection algorithm |
-| **Rajveer** | Frontend web application, interactive map, charts & analytics dashboard, frontend–backend integration |
-
----
-
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Data collection | Python, Requests, OpenStreetMap Overpass API |
-| Data processing | Python, Pandas, math (Haversine distance) |
-| Backend | Flask, Flask-CORS |
-| Frontend map | Leaflet.js |
-| Frontend charts | Chart.js |
-| Fonts | Google Fonts (Outfit, DM Mono) |
-| Version control | Git + GitHub |
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| Data Collection | Python, Requests | OpenStreetMap Overpass API |
+| Data Processing | Python, math (Haversine) | Grid analysis, density, gap detection |
+| Backend | **FastAPI**, Uvicorn | REST API, versioned endpoints |
+| AI | **Google Gemini 1.5 Flash** | Urban planning suggestions |
+| Frontend Map | **Leaflet.js** | Interactive infrastructure map |
+| Frontend Charts | **Chart.js** | Analytics visualisation |
+| Fonts | Google Fonts (Outfit, DM Mono) | Typography |
+| Backend Hosting | **Render** | Free cloud backend |
+| Frontend Hosting | **Vercel** | Free static frontend |
+| Version Control | Git + GitHub | Collaboration |
+
+---
+
+## 🔮 Scalability & Future Roadmap
+
+As documented in the Technical Requirements Document, the following V2 enhancements are planned:
+
+| Enhancement | Description |
+|-------------|-------------|
+| **PostGIS Database** | Replace JSON files with PostgreSQL + PostGIS for sub-second spatial queries using `ST_Buffer` and `ST_DWithin` |
+| **H3 Hexagonal Grid** | Replace square grid with Uber's H3 hexagon system for more accurate coverage analysis |
+| **Vector Tiling** | Use `pg_tileserv` to stream `.mvt` tiles instead of large GeoJSON payloads |
+| **Redis Caching** | Cache common underserved queries to serve identical requests instantly |
+| **React + Deck.gl** | Migrate frontend to React with Deck.gl for 3D building extrusions and WebGL rendering |
+| **CI/CD Pipeline** | GitHub Actions for automated testing and deployment on every push |
+| **Real-time Data** | Webhook integration for live infrastructure updates |
+
+---
+
+## ⚠️ Edge Cases & Mitigations
+
+| Risk | Mitigation |
+|------|-----------|
+| **Overpass API rate limiting** | Exponential backoff retry (up to 4 attempts), 15s delay between requests, resume logic skips already-fetched categories |
+| **Large dataset performance** | Marker clustering, pagination (`?limit=5000`), buildings excluded from point layer |
+| **Gemini JSON parsing** | Automatic markdown fence stripping, fallback to raw text response |
+| **Render cold starts** | Document 30–50s first-request delay; ping strategy before demo |
+| **CORS issues** | `CORSMiddleware` with `allow_origins=["*"]` on all API responses |
 
 ---
 
 ## 📸 Screenshots
 
-> ![Map Explorer](frontend/assets/screenshots/map.png)
-
-> ![Analytics](frontend/assets/screenshots/analytics.png)
+<table>
+  <tr>
+    <td><img src="frontend/assets/screenshots/map.png" alt="Map Explorer"/><br/><b>Map Explorer</b> — 5 toggleable layers</td>
+    <td><img src="frontend/assets/screenshots/underserved.png" alt="Gap Query"/><br/><b>Map Explorer</b> — Underserved Areas</td>
+  </tr>
+  <tr>
+    <td><img src="frontend/assets/screenshots/analytics.png" alt="Analytics"/><br/><b>Analytics</b> — 4 live charts</td>
+    <td><img src="frontend/assets/screenshots/ai.png" alt="AI Suggestions"/><br/><b>AI Suggestions</b> — Gemini planning recommendations</td>
+    
+  </tr>
+</table>
 
 ---
 
 ## 📄 License
 
-This project was built for educational and evaluation purposes.
+This project was built for the educational purpose at Chennai Mathematical Institute.
 
 ---
 
-*Built with ❤️ for Coriolis Technologies Internship Evaluation — 2025*
+<div align="center">
+
+Built with ❤️ by **Dhruv Patel**
+
+*Chennai Mathematical Institute*
+
+</div>
