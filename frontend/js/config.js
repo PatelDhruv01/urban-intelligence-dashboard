@@ -8,7 +8,7 @@
 // ── API ───────────────────────────────────────────────────────────────────────
 // Local dev: http://localhost:8000/api/v1
 // After deploying to Render: https://your-app.onrender.com/api/v1
-const API_BASE = "http://localhost:8000/api/v1";
+const API_BASE = "https://urban-intelligence-dashboard.onrender.com";
 
 // ── BANGALORE MAP BOUNDS ──────────────────────────────────────────────────────
 const CITY_CENTER  = [12.9716, 77.5946];   // Bangalore city center
