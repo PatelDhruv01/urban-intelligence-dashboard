@@ -1,42 +1,55 @@
 /**
- * map.js — Leaflet map initialisation and layer management.
- * Exposes: map, LG, LA, toggleLayer, loadLayer, loadUnderserved, cellBounds
+ * map_v4.js — Advanced Leaflet map initialisation with DarkMatter and Heatmaps.
  */
 
 const map = L.map("map", {
-  center: CITY_CENTER, zoom: CITY_ZOOM, zoomControl: false,
+  center: [12.9716, 77.5946], zoom: 12, zoomControl: false,
 });
 L.control.zoom({ position: "bottomright" }).addTo(map);
 
-// Premium Light Street Map
-L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+// Advanced OLED Dark Basemap
+L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
   attribution: "© OpenStreetMap, © CartoDB", maxZoom: 19,
 }).addTo(map);
 
-// Keep a global reference for the size invalidator in app.js
 window.UID_MAP = map;
 
-const LG = {
+window.LG = {
   hospitals:    L.layerGroup().addTo(map),
   schools:      L.layerGroup().addTo(map),
   traffic_nodes:L.layerGroup().addTo(map),
   pharmacies:   L.layerGroup(),
-  underserved:  L.layerGroup(),
+  underserved:  null, // Will be initialized as a heat layer
 };
-const LA = {
+
+window.LA = {
   hospitals: true, schools: true, traffic_nodes: true,
   pharmacies: false, underserved: false,
 };
 
+// UI/UX Pro Max Colors
+window.LAYER_COLORS = {
+    hospitals: "#22d3ee",
+    schools: "#f59e0b",
+    traffic_nodes: "#f43f5e",
+    pharmacies: "#a855f7"
+};
+
+window.MARKER_RADIUS = {
+    hospitals: 6,
+    schools: 5,
+    traffic_nodes: 4,
+    pharmacies: 5
+};
+
 function buildPopup(item, color) {
   const t = item.tags || {};
-  return `<div style="padding:4px 2px;min-width:170px">
-    <div class="pn">${item.name || "Unnamed"}</div>
-    <span class="pt" style="background:${color}22;color:${color}">${item.category}</span>
-    <div class="pr">📍 ${item.lat.toFixed(5)}, ${item.lon.toFixed(5)}</div>
-    ${t["addr:street"]   ? `<div class="pr">🏠 ${t["addr:street"]}</div>` : ""}
-    ${t["phone"]         ? `<div class="pr">📞 ${t["phone"]}</div>` : ""}
-    ${t["opening_hours"] ? `<div class="pr">🕐 ${t["opening_hours"]}</div>` : ""}
+  return `
+  <div style="padding:8px 4px;min-width:180px">
+    <div style="font-weight:bold;color:#f8fafc;font-size:14px;margin-bottom:4px;">${item.name || "Unnamed Node"}</div>
+    <span style="font-family:'Fira Code', monospace;font-size:10px;text-transform:uppercase;background:${color}22;color:${color};padding:2px 4px;border-radius:4px;border:1px solid ${color}44;">${item.category}</span>
+    <div style="color:#94a3b8;font-size:12px;margin-top:8px;">📍 ${item.lat.toFixed(5)}, ${item.lon.toFixed(5)}</div>
+    ${t["addr:street"]   ? `<div style="color:#94a3b8;font-size:12px;margin-top:4px;">🏠 ${t["addr:street"]}</div>` : ""}
   </div>`;
 }
 
@@ -44,11 +57,18 @@ async function loadLayer(category) {
   const color  = LAYER_COLORS[category];
   const radius = MARKER_RADIUS[category];
   const data   = await apiFetch(`${API_BASE}/infrastructure/${category}?limit=5000`);
+  
   (data.data || []).forEach(item => {
     L.circleMarker([item.lat, item.lon], {
-      radius, fillColor: color, color, weight: 1, opacity: .9, fillOpacity: .8,
-    }).bindPopup(buildPopup(item, color), { maxWidth: 260 }).addTo(LG[category]);
+      radius, 
+      fillColor: color, 
+      color: "#0f172a", // Dark border to pop against dark map
+      weight: 1, 
+      opacity: 1, 
+      fillOpacity: 0.8,
+    }).bindPopup(buildPopup(item, color), { maxWidth: 260 }).addTo(window.LG[category]);
   });
+  
   const el = document.getElementById(`ln-${category}`);
   if (el) el.textContent = (data.total || 0).toLocaleString();
   return data.total || 0;
@@ -57,39 +77,35 @@ async function loadLayer(category) {
 async function loadUnderserved() {
   const data  = await apiFetch(`${API_BASE}/analysis/underserved?type=any`);
   const cells = data.cells || [];
-  cells.forEach(c => {
-    const issues = [];
-    if (c.lacks_hospital) issues.push(`No hospital within 3km (nearest: ${c.nearest_hospital_km}km)`);
-    if (c.lacks_school)   issues.push(`No school within 2km (nearest: ${c.nearest_school_km}km)`);
-    if (c.lacks_pharmacy) issues.push(`No pharmacy within 1.5km (nearest: ${c.nearest_pharmacy_km}km)`);
-    L.rectangle(cellBounds(c), {
-      color: "#f43f5e", weight: 1, fillColor: "#f43f5e",
-      fillOpacity: Math.min(0.1 + c.underservice_score * 0.06, 0.5),
-    }).bindPopup(`<div style="padding:4px 2px;min-width:180px">
-      <div class="pn" style="color:#f87171">⚠ Underserved Zone</div>
-      <div class="pr">Cell: ${c.cell_id} · Score: ${c.underservice_score}</div>
-      ${issues.map(i => `<div class="pr" style="color:#fca5a5">• ${i}</div>`).join("")}
-    </div>`, { maxWidth: 280 }).addTo(LG.underserved);
-  });
-  const el = document.getElementById("ln-underserved");
-  if (el) el.textContent = cells.length;
-  return cells.length;
-}
+  
+  // Extract coordinates and intensity (score) for Heatmap
+  const heatPoints = cells.map(c => [
+      c.center_lat, 
+      c.center_lon, 
+      c.underservice_score / 3 // Normalize weight
+  ]);
 
-function cellBounds(c) {
-  const ls = (CITY_BOUNDS.north - CITY_BOUNDS.south) / GRID_SIZE;
-  const ln = (CITY_BOUNDS.east  - CITY_BOUNDS.west)  / GRID_SIZE;
-  return [
-    [c.center_lat - ls/2, c.center_lon - ln/2],
-    [c.center_lat + ls/2, c.center_lon + ln/2],
-  ];
+  // Create smooth Heatmap Layer
+  window.LG.underserved = L.heatLayer(heatPoints, {
+      radius: 35,
+      blur: 25,
+      maxZoom: 14,
+      gradient: {
+          0.2: '#3b82f6', // blue
+          0.5: '#f59e0b', // amber
+          1.0: '#f43f5e'  // rose
+      }
+  });
+
+  return cells.length;
 }
 
 function toggleLayer(name) {
   LA[name] = !LA[name];
-  const row = document.getElementById(`lr-${name}`);
-  const tog = document.getElementById(`lt-${name}`);
-  if (row) row.classList.toggle("on", LA[name]);
-  if (tog) tog.classList.toggle("on", LA[name]);
-  LA[name] ? map.addLayer(LG[name]) : map.removeLayer(LG[name]);
+  const tog = document.getElementById(`t-${name}`);
+  if (tog) tog.checked = LA[name];
+  
+  if (LG[name]) {
+      LA[name] ? map.addLayer(LG[name]) : map.removeLayer(LG[name]);
+  }
 }
