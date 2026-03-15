@@ -44,14 +44,14 @@ By collecting, processing, and visualising 233,000+ real infrastructure data poi
 
 | Feature | Description |
 |---------|-------------|
-| 🗺️ **Interactive Map** | Leaflet map with 5 toggleable infrastructure layers across Bangalore |
-| 📊 **Analytics Dashboard** | 4 live charts — hospital density, school distribution, comparison, gap breakdown |
-| ⚡ **Dynamic Gap Query** | Select any facility + custom radius to instantly highlight underserved zones |
-| 🤖 **AI Suggestions** | Google Gemini analyses infrastructure deserts and recommends optimal facility placement |
-| 📍 **Show on Map** | AI suggestions link directly to map — flies to the recommended location |
-| 🧮 **Smart Impact Score** | AI rates each suggestion 0–10 by estimated population served vs. implementation cost |
+| 🌌 **OLED Dark Aesthetic** | Premium dark mode with Glassmorphism floating panels & neon accents |
+| 🗺️ **CartoDB DarkMatter Map** | Interactive Leaflet spatial explorer with smooth `flyTo` transitions |
+| 🔥 **Organic Heatmaps** | Square grids deprecated in favour of smooth, dynamic gradient Heatmaps |
+| 📊 **Advanced Telemetry Hub** | Chart.js integrations: Radar (Readiness), Multi-Axis (Trajectory), Doughnut (Efficiency) |
+| 🤖 **Cyberpunk AI Strategist** | Gemini 1.5 powers a terminal-style neural scanner with glowing ROI matrices |
+| 📍 **Vector Targeting** | AI suggestions link directly back to the map with pulsing neon locators |
 | 🔌 **REST API** | Fully versioned FastAPI backend with interactive Swagger documentation |
-| 🌐 **Fully Deployed** | Live on Vercel (frontend) + Render (backend) — no local setup required for evaluators |
+| 🌐 **Fully Deployed** | Live on Vercel (frontend) + Render (backend) — no local setup required |
 
 ---
 
@@ -309,9 +309,9 @@ Content-Type: application/json
 | Data Processing | Python, math (Haversine) | Grid analysis, density, gap detection |
 | Backend | **FastAPI**, Uvicorn | REST API, versioned endpoints |
 | AI | **Google Gemini 1.5 Flash** | Urban planning suggestions |
-| Frontend Map | **Leaflet.js** | Interactive infrastructure map |
-| Frontend Charts | **Chart.js** | Analytics visualisation |
-| Fonts | Google Fonts (Outfit, DM Mono) | Typography |
+| Frontend Map | **Leaflet.js** + **CartoDB DarkMatter** + **Heatcanvas** | Interactive spatial vectors |
+| Frontend Charts | **Chart.js** | Complex data visualisation (Radar, Multi-Axis) |
+| Fonts | **Fira Code** (Monospace) + **Inter** | Cyberpunk & Clean Typography |
 | Backend Hosting | **Render** | Free cloud backend |
 | Frontend Hosting | **Vercel** | Free static frontend |
 | Version Control | Git + GitHub | Collaboration |
