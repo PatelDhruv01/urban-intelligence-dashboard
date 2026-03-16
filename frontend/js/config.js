@@ -8,7 +8,7 @@
 // ── API ───────────────────────────────────────────────────────────────────────
 // Automatically switch between Local and Render backend URL 
 const LOCAL_BACKEND = "http://localhost:8000/api/v1";
-const RENDER_BACKEND = "https://urban-intelligence-api.onrender.com/api/v1"; // Update this with your actual Render URL if different
+const RENDER_BACKEND = "https://urban-intelligence-dashboard.onrender.com/api/v1";
 
 const API_BASE = (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") 
     ? LOCAL_BACKEND 
